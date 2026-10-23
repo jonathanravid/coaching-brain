@@ -293,42 +293,10 @@ function TodayPanel({
         <Stat label="Form" value={form.toFixed(1)} hint="Tired on purpose" />
       </section>
       <p className="text-xs text-muted">{live?.ok ? "Intervals, refreshed while this page is open." : "Saved snapshot. Refreshing from intervals."}</p>
-      <section className="rounded-xl border border-line bg-surface p-4">
-        <h2 className="font-serif text-xl">Last night</h2>
-        <p className="mt-2 text-base leading-relaxed">
-          {live?.restingHr
-            ? `Resting heart rate this morning: ${live.restingHr}. Sleep and HRV are still blank.`
-            : "No sleep, no HRV, and no usable resting heart rate for last night."}
-        </p>
-        <ul className="mt-3 flex flex-col gap-2 text-sm leading-relaxed text-muted">
-          <li>Last HRV: {t.lastHrv.v} on 25 Feb 2025.</li>
-          <li>Last sleep: {t.lastSleep.hours} h, score {t.lastSleep.score}, same day.</li>
-          <li>
-            {live?.restingHr
-              ? `Usable resting heart rate is ${live.restingHr} on ${short(live.restingDate ?? live.today ?? "")}. The 123 on 20 Oct is still junk.`
-              : `20 Oct resting heart rate was ${t.badRhr.v}. That is not usable. Last usable reading is ${t.lastGoodRhr.v} on 26 Sep.`}
-          </li>
-          <li>Weight last entered 15 Sep: {t.lastWeight.kg} kg.</li>
-        </ul>
-      </section>
-      <section className="rounded-xl bg-accent p-4 text-bg">
-        <h2 className="font-serif text-xl">Coach</h2>
-        <p className="mt-2 text-base leading-relaxed">
-          {coachRead(live, form)}
-        </p>
-      </section>
       <WeekRow kicker="This week · 19–25 Oct" title="On the intervals calendar. Do not add work." days={week} />
       <WeekRow kicker="Next week · 26 Oct – 1 Nov" title="Block A. Watts are indoor. Outside, hold heart rate." days={next} />
     </div>
   );
-}
-
-function coachRead(live: DeskLive | null, form: number) {
-  const run = live?.sessions?.find((s) => s.date === live.today && s.type === "Run");
-  if (run) {
-    return `The easy run is done. ${run.mins} minutes, ${run.km} km, average ${run.avgHr}. Max ${run.maxHr}. That is easy. Do not add another run. The optional spin stays optional. Tomorrow is the easy long ride. Form is ${form.toFixed(1)}.`;
-  }
-  return `Form is ${form.toFixed(1)}. Leave the rest of the week as written. Do not add a session.`;
 }
 
 function PlanPanel() {

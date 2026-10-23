@@ -117,12 +117,6 @@
       const line = (key) => rows.map((r, i) => `${i ? "L" : "M"}${x(i).toFixed(1)},${y(r[key]).toFixed(1)}`).join(" ");
       return `<svg viewBox="0 0 ${w} ${h}" role="img"><path d="${line("atl")}" fill="none" stroke="#1c1915" stroke-width="2"/><path d="${line("ctl")}" fill="none" stroke="#1f6b4a" stroke-width="2"/></svg>`;
     }
-    function coach(live) {
-      const run = (live.sessions || []).find((s) => s.date === live.today && s.type === "Run");
-      const form = Number(live.form ?? 0).toFixed(1);
-      if (run) return `The easy run is done. ${run.mins} minutes, ${run.km} km, average ${run.avgHr}. Max ${run.maxHr}. That is easy. Do not add another run. The optional spin stays optional. Tomorrow is the easy long ride. Form is ${form}.`;
-      return `Form is ${form}. Leave the rest of the week as written. Do not add a session.`;
-    }
     function render(live, tab) {
       const today = live.today;
       const shamrock = daysUntil("2027-03-21", today);
@@ -144,8 +138,6 @@
           <article><p class="k">Form</p><p class="mid">${Number(live.form).toFixed(1)}</p><p class="k">Tired on purpose</p></article>
         </div>
         <p class="k">Intervals snapshot ${live.refreshedAt ? new Date(live.refreshedAt).toLocaleString() : ""}. GitHub refreshes this about once an hour.</p>
-        <section class="card"><h2>Last night</h2><p>${live.restingHr ? `Resting heart rate: ${live.restingHr} on ${live.restingDate}.` : "No usable resting heart rate."} Sleep and HRV stay blank until they are logged.</p></section>
-        <section class="card coach"><h2>Coach</h2><p>${coach(live)}</p></section>
         ${weekHtml}`;
       const planHtml = `<section class="card"><h2>The blocks</h2><p class="k">Shamrock first. St. Anthony's five weeks later.</p><div class="blocks">${phases.map((p, i) => `<article class="${i === 0 ? "today" : ""}" style="border:1px solid ${i === 0 ? "var(--accent)" : "var(--line)"};border-radius:12px;padding:12px"><div style="display:flex;justify-content:space-between"><strong>${p[0]}</strong><span class="k">${p[2]}</span></div><p class="k">${p[1]}</p><p>${p[3]}</p><p class="done">${p[4]}</p></article>`).join("")}</div></section>`;
       const trendsHtml = `<section class="card"><h2>Fitness and fatigue</h2><p class="k">Green is fitness. Black is fatigue. Last 16 days from the hourly snapshot.</p>${chart(live.series)}</section>`;
