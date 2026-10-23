@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Desk</title>
+  <style>
+    :root { --bg:#f3efe6; --surface:#fffdf8; --ink:#1c1915; --muted:#6f675c; --line:#e4dccf; --accent:#1f6b4a; }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.45 Georgia, "Iowan Old Style", serif; }
+    main { max-width: 1100px; margin: 0 auto; padding: 16px 16px 88px; display: flex; flex-direction: column; gap: 12px; }
+    .row { display: grid; gap: 12px; }
+    .two { grid-template-columns: 1fr; }
+    .three { grid-template-columns: repeat(3, 1fr); }
+    @media (min-width: 700px) { .two { grid-template-columns: 1fr 1fr; } }
+    article, section.card { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 14px; }
+    .k { color: var(--muted); font: 14px/1.3 ui-sans-serif, system-ui, sans-serif; }
+    .big { font-size: 48px; line-height: 1; margin: 0; }
+    .mid { font-size: 32px; line-height: 1; margin: 4px 0 0; }
+    .green { color: var(--accent); }
+    .coach { background: var(--accent); color: var(--bg); border: 0; }
+    .week { display: flex; gap: 8px; overflow-x: auto; padding-bottom: 6px; }
+    .day { min-width: 148px; border: 1px solid var(--line); border-radius: 12px; padding: 10px; background: #fff; }
+    .day.today { border-color: var(--accent); }
+    .day h3, .day p, li { margin: 0; }
+    .day ul { list-style: none; padding: 0; margin: 8px 0 0; display: flex; flex-direction: column; gap: 8px; }
+    .name { font: 600 14px/1.3 ui-sans-serif, system-ui, sans-serif; }
+    .meta, .done { font: 12px/1.4 ui-sans-serif, system-ui, sans-serif; color: var(--muted); }
+    .done { color: var(--accent); }
+    nav { position: fixed; left: 0; right: 0; bottom: 0; display: grid; grid-template-columns: repeat(4, 1fr); background: var(--surface); border-top: 1px solid var(--line); }
+    nav button { border: 0; background: transparent; padding: 14px 4px; font: 14px/1 ui-sans-serif, system-ui, sans-serif; color: var(--muted); }
+    nav button.on { color: var(--accent); font-weight: 650; }
+    .hide { display: none; }
+    svg { width: 100%; height: 160px; }
+    .blocks { display: grid; gap: 12px; }
+    @media (min-width: 700px) { .blocks { grid-template-columns: 1fr 1fr; } }
+  </style>
+</head>
+<body>
+  <main id="app"></main>
+  <nav>
+    <button type="button" data-tab="today" class="on">Today</button>
+    <button type="button" data-tab="plan">Plan</button>
+    <button type="button" data-tab="trends">Trends</button>
+    <button type="button" data-tab="coach">Coach</button>
+  </nav>
+  <script>
+    const phases = [
+      ["This week", "19–25 Oct", "Test", "FTP test is done. Do not add a session. Block A starts Monday.", "Now"],
+      ["Block A", "26 Oct – 22 Nov", "13.5–15 h", "Build. Two hard bikes, then one. One hard run plus the long run. Indoor watts.", "Starts Monday"],
+      ["Block B", "23 Nov – 10 Jan", "15–16 h", "Threshold. Hold 15, touch 16. Down week before the 10k. Only if A was absorbed.", "Threshold"],
+      ["Block C", "11 Jan – 28 Feb", "15–16 h", "Specific. The 10k writes the pace. 1:25 is not assumed.", "Specific"],
+      ["Block D", "1–21 Mar", "10–12 h", "Sharpen into Shamrock on 21 Mar. Race week is not a big week.", "Sharpen"],
+      ["Block E", "22 Mar – 25 Apr", "toward 14 h", "Olympic. Starts after the half, if the legs are honest. St. Anthony's is 25 Apr.", "Olympic"]
+    ];
+    const weeks = [
+      { kicker: "This week · 19–25 Oct", title: "On the intervals calendar. Do not add work.", days: [
+        ["Mon 19", "2026-10-19", [["Aerobic + tempo", "Ride · 90 min"]]],
+        ["Tue 20", "2026-10-20", [["Swim easy", "50 min"], ["Strength, light legs", "35 min"], ["Easy run + strides", "35 min"]]],
+        ["Wed 21", "2026-10-21", [["20-min FTP test", "Ride"]]],
+        ["Thu 22", "2026-10-22", [["Easy spin", "90 min"]]],
+        ["Fri 23", "2026-10-23", [["Easy run", "40 min"], ["Easy spin, optional", "25 min"]]],
+        ["Sat 24", "2026-10-24", [["Long ride easy", "3:30"]]],
+        ["Sun 25", "2026-10-25", [["Long run easy", "70 min"]]]
+      ]},
+      { kicker: "Next week · 26 Oct – 1 Nov", title: "Block A. Watts are indoor. Outside, hold heart rate.", days: [
+        ["Mon 26", "2026-10-26", [["Aerobic swim", "50 min · slower than 1:40 /100m"], ["Light lift", "35 min"]]],
+        ["Tue 27", "2026-10-27", [["Z4 run, 6×3 min", "51 min"]]],
+        ["Wed 28", "2026-10-28", [["Sweet spot 3×10", "222–236 W · indoor"]]],
+        ["Thu 29", "2026-10-29", [["Aerobic swim", "50 min"], ["Z2 spin", "2:30 · 165–190 W indoor"]]],
+        ["Fri 30", "2026-10-30", [["2×15 min", "229–244 W · indoor"]]],
+        ["Sat 31", "2026-10-31", [["Long ride 4:30", "165–190 W indoor, or 150–165 bpm outside"]]],
+        ["Sun 1", "2026-11-01", [["Long run", "80 min · Z2"]]]
+      ]}
+    ];
+    const sportOf = (name) => {
+      const n = name.toLowerCase();
+      if (n.includes("run")) return "Run";
+      if (n.includes("swim")) return "Swim";
+      if (n.includes("lift") || n.includes("strength")) return "WeightTraining";
+      if (n.includes("spin") || n.includes("ride") || n.includes("bike")) return "Ride";
+      return "";
+    };
+    const daysUntil = (iso, from) => Math.round((Date.parse(iso + "T00:00:00") - Date.parse(from + "T00:00:00")) / 86400000);
+    function stamp(days, live) {
+      const used = new Set();
+      return days.map(([label, iso, sessions]) => {
+        const done = sessions.map(([name, meta]) => {
+          const sport = sportOf(name);
+          const hit = (live.sessions || []).findIndex((a, i) => {
+            if (used.has(i) || a.date !== iso) return false;
+            const planned = name.toLowerCase();
+            const actual = a.name.toLowerCase();
+            if (actual.includes(planned) || planned.includes(actual)) return true;
+            return sport && a.type === sport;
+          });
+          if (hit < 0) return { name, meta, done: false };
+          used.add(hit);
+          const a = live.sessions[hit];
+          const bits = [`${a.mins} min`];
+          if (a.km) bits.push(`${a.km} km`);
+          if (a.avgHr) bits.push(`avg ${a.avgHr}`);
+          if (a.avgW) bits.push(`${a.avgW} W`);
+          return { name, meta: bits.join(" · "), done: true };
+        });
+        return { label, iso, sessions: done };
+      });
+    }
+    function chart(series) {
+      const rows = (series || []).slice(-21);
+      if (!rows.length) return "";
+      const w = 640, h = 160, pad = 16;
+      const min = Math.min(...rows.map((r) => Math.min(r.ctl, r.atl))) - 4;
+      const max = Math.max(...rows.map((r) => Math.max(r.ctl, r.atl))) + 4;
+      const x = (i) => pad + (i * (w - pad * 2)) / Math.max(rows.length - 1, 1);
+      const y = (v) => h - pad - ((v - min) / (max - min)) * (h - pad * 2);
+      const line = (key) => rows.map((r, i) => `${i ? "L" : "M"}${x(i).toFixed(1)},${y(r[key]).toFixed(1)}`).join(" ");
+      return `<svg viewBox="0 0 ${w} ${h}" role="img"><path d="${line("atl")}" fill="none" stroke="#1c1915" stroke-width="2"/><path d="${line("ctl")}" fill="none" stroke="#1f6b4a" stroke-width="2"/></svg>`;
+    }
+    function coach(live) {
+      const run = (live.sessions || []).find((s) => s.date === live.today && s.type === "Run");
+      const form = Number(live.form ?? 0).toFixed(1);
+      if (run) return `The easy run is done. ${run.mins} minutes, ${run.km} km, average ${run.avgHr}. Max ${run.maxHr}. That is easy. Do not add another run. The optional spin stays optional. Tomorrow is the easy long ride. Form is ${form}.`;
+      return `Form is ${form}. Leave the rest of the week as written. Do not add a session.`;
+    }
+    function render(live, tab) {
+      const today = live.today;
+      const shamrock = daysUntil("2027-03-21", today);
+      const anthonys = daysUntil("2027-04-25", today);
+      const weekHtml = weeks.map((week) => `
+        <section class="card"><p class="k">${week.kicker}</p><h2>${week.title}</h2>
+        <div class="week">${stamp(week.days, live).map((day) => `
+          <article class="day${day.iso === today ? " today" : ""}"><p class="k">${day.label}${day.iso === today ? " · today" : ""}</p>
+          <ul>${day.sessions.map((s) => `<li><p class="name">${s.name}</p><p class="meta">${s.meta}</p>${s.done ? `<p class="done">Done</p>` : ""}</li>`).join("")}</ul>
+          </article>`).join("")}</div></section>`).join("");
+      const todayHtml = `
+        <div class="row two">
+          <article><p class="k">Next A race</p><div style="display:flex;justify-content:space-between;align-items:end"><div><h1 class="mid">Shamrock Half</h1><p class="k">21 Mar 2027 · Virginia Beach</p></div><p class="big green">${shamrock}</p></div></article>
+          <article><p class="k">Second A race</p><div style="display:flex;justify-content:space-between;align-items:end"><div><h2 class="mid">St. Anthony's</h2><p class="k">25 Apr 2027 · 1.5 km / 40 km / 10 km</p></div><p class="big">${anthonys}</p></div></article>
+        </div>
+        <div class="row three">
+          <article><p class="k">Fitness</p><p class="mid">${Number(live.ctl).toFixed(1)}</p><p class="k">CTL · ${live.asOf || ""}</p></article>
+          <article><p class="k">Fatigue</p><p class="mid">${Number(live.atl).toFixed(1)}</p><p class="k">ATL</p></article>
+          <article><p class="k">Form</p><p class="mid">${Number(live.form).toFixed(1)}</p><p class="k">Tired on purpose</p></article>
+        </div>
+        <p class="k">Intervals snapshot ${live.refreshedAt ? new Date(live.refreshedAt).toLocaleString() : ""}. GitHub refreshes this about once an hour.</p>
+        <section class="card"><h2>Last night</h2><p>${live.restingHr ? `Resting heart rate: ${live.restingHr} on ${live.restingDate}.` : "No usable resting heart rate."} Sleep and HRV stay blank until they are logged.</p></section>
+        <section class="card coach"><h2>Coach</h2><p>${coach(live)}</p></section>
+        ${weekHtml}`;
+      const planHtml = `<section class="card"><h2>The blocks</h2><p class="k">Shamrock first. St. Anthony's five weeks later.</p><div class="blocks">${phases.map((p, i) => `<article class="${i === 0 ? "today" : ""}" style="border:1px solid ${i === 0 ? "var(--accent)" : "var(--line)"};border-radius:12px;padding:12px"><div style="display:flex;justify-content:space-between"><strong>${p[0]}</strong><span class="k">${p[2]}</span></div><p class="k">${p[1]}</p><p>${p[3]}</p><p class="done">${p[4]}</p></article>`).join("")}</div></section>`;
+      const trendsHtml = `<section class="card"><h2>Fitness and fatigue</h2><p class="k">Green is fitness. Black is fatigue. Last 16 days from the hourly snapshot.</p>${chart(live.series)}</section>`;
+      const coachHtml = `<section class="card"><h2>Working</h2><p>September was already 10–13 hour weeks. The easy run this morning stayed in Z1. Indoor FTP is 252 W.</p></section><section class="card"><h2>Work on</h2><p>Easy days stay easy. One hard run plus the long run. No more than three hard bike workouts. Do not add a session because a day felt light.</p></section>`;
+      const pages = { today: todayHtml, plan: planHtml, trends: trendsHtml, coach: coachHtml };
+      document.getElementById("app").innerHTML = pages[tab];
+    }
+    let tab = "today";
+    let live = null;
+    document.querySelectorAll("nav button").forEach((button) => {
+      button.addEventListener("click", () => {
+        tab = button.dataset.tab;
+        document.querySelectorAll("nav button").forEach((b) => b.classList.toggle("on", b === button));
+        if (live) render(live, tab);
+      });
+    });
+    fetch("./desk-live.json", { cache: "no-store" }).then((r) => r.json()).then((data) => { live = data; render(live, tab); });
+    setInterval(() => fetch("./desk-live.json", { cache: "no-store" }).then((r) => r.json()).then((data) => { live = data; render(live, tab); }), 120000);
+  </script>
+</body>
+</html>

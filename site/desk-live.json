@@ -1,0 +1,423 @@
+{
+  "ok": true,
+  "today": "2026-10-23",
+  "asOf": "2026-10-23",
+  "ctl": 67.3,
+  "atl": 77.8,
+  "form": -10.5,
+  "restingHr": 55,
+  "restingDate": "2026-10-23",
+  "sessions": [
+    {
+      "date": "2026-10-23",
+      "name": "Virginia Beach Running",
+      "type": "Run",
+      "mins": 45,
+      "km": 8.2,
+      "avgHr": 142,
+      "maxHr": 153,
+      "avgW": null,
+      "np": null,
+      "load": 42
+    },
+    {
+      "date": "2026-10-22",
+      "name": "Easy spin",
+      "type": "Ride",
+      "mins": 92,
+      "km": 43.4,
+      "avgHr": 128,
+      "maxHr": 145,
+      "avgW": 151,
+      "np": 160,
+      "load": 54
+    },
+    {
+      "date": "2026-10-21",
+      "name": "Zwift - Race: Stage 3 - Race - Tour of Watopia 2026 (A)",
+      "type": "VirtualRide",
+      "mins": 37,
+      "km": 21.3,
+      "avgHr": 168,
+      "maxHr": 194,
+      "avgW": 199,
+      "np": 230,
+      "load": 45
+    },
+    {
+      "date": "2026-10-21",
+      "name": "20-min FTP test",
+      "type": "VirtualRide",
+      "mins": 72,
+      "km": 0,
+      "avgHr": 159,
+      "maxHr": 194,
+      "avgW": 178,
+      "np": 216,
+      "load": 77
+    },
+    {
+      "date": "2026-10-21",
+      "name": "Warmup",
+      "type": "VirtualRide",
+      "mins": 30,
+      "km": 18.5,
+      "avgHr": 152,
+      "maxHr": 183,
+      "avgW": 181,
+      "np": 203,
+      "load": 28
+    },
+    {
+      "date": "2026-10-20",
+      "name": "Virginia Beach Running",
+      "type": "Run",
+      "mins": 35,
+      "km": 6.2,
+      "avgHr": 144,
+      "maxHr": 164,
+      "avgW": null,
+      "np": null,
+      "load": 34
+    },
+    {
+      "date": "2026-10-20",
+      "name": "Activity",
+      "type": "",
+      "mins": 0,
+      "km": 0,
+      "avgHr": null,
+      "maxHr": null,
+      "avgW": null,
+      "np": null,
+      "load": null
+    },
+    {
+      "date": "2026-10-20",
+      "name": "Strength (light legs)",
+      "type": "WeightTraining",
+      "mins": 35,
+      "km": 0,
+      "avgHr": null,
+      "maxHr": null,
+      "avgW": null,
+      "np": null,
+      "load": null
+    },
+    {
+      "date": "2026-10-20",
+      "name": "Swim easy",
+      "type": "Swim",
+      "mins": 50,
+      "km": 2.5,
+      "avgHr": null,
+      "maxHr": null,
+      "avgW": null,
+      "np": null,
+      "load": null
+    },
+    {
+      "date": "2026-10-19",
+      "name": "Zwift",
+      "type": "VirtualRide",
+      "mins": 90,
+      "km": 34,
+      "avgHr": 140,
+      "maxHr": 160,
+      "avgW": 174,
+      "np": 180,
+      "load": 67
+    },
+    {
+      "date": "2026-10-18",
+      "name": "Zwift - 45min Riders Choice",
+      "type": "VirtualRide",
+      "mins": 33,
+      "km": 16.2,
+      "avgHr": 123,
+      "maxHr": 136,
+      "avgW": 148,
+      "np": 150,
+      "load": 17
+    },
+    {
+      "date": "2026-10-17",
+      "name": "Cycling",
+      "type": "Ride",
+      "mins": 99,
+      "km": 45.2,
+      "avgHr": null,
+      "maxHr": null,
+      "avgW": 183,
+      "np": 221,
+      "load": 120
+    },
+    {
+      "date": "2026-10-16",
+      "name": "Cycling",
+      "type": "Ride",
+      "mins": 101,
+      "km": 45.3,
+      "avgHr": 145,
+      "maxHr": 171,
+      "avgW": 167,
+      "np": 196,
+      "load": 96
+    },
+    {
+      "date": "2026-10-16",
+      "name": "Activity",
+      "type": "",
+      "mins": 0,
+      "km": 0,
+      "avgHr": null,
+      "maxHr": null,
+      "avgW": null,
+      "np": null,
+      "load": null
+    },
+    {
+      "date": "2026-10-15",
+      "name": "Cycling",
+      "type": "Ride",
+      "mins": 93,
+      "km": 38.2,
+      "avgHr": 136,
+      "maxHr": 167,
+      "avgW": 136,
+      "np": 171,
+      "load": 67
+    },
+    {
+      "date": "2026-10-15",
+      "name": "Activity",
+      "type": "",
+      "mins": 0,
+      "km": 0,
+      "avgHr": null,
+      "maxHr": null,
+      "avgW": null,
+      "np": null,
+      "load": null
+    },
+    {
+      "date": "2026-10-14",
+      "name": "Back in Blacks-burg",
+      "type": "Ride",
+      "mins": 134,
+      "km": 52.9,
+      "avgHr": 128,
+      "maxHr": 168,
+      "avgW": 131,
+      "np": 179,
+      "load": 106
+    },
+    {
+      "date": "2026-10-13",
+      "name": "Cycling",
+      "type": "Ride",
+      "mins": 67,
+      "km": 29.9,
+      "avgHr": 143,
+      "maxHr": 172,
+      "avgW": 169,
+      "np": 211,
+      "load": 74
+    },
+    {
+      "date": "2026-10-13",
+      "name": "Activity",
+      "type": "",
+      "mins": 0,
+      "km": 0,
+      "avgHr": null,
+      "maxHr": null,
+      "avgW": null,
+      "np": null,
+      "load": null
+    },
+    {
+      "date": "2026-10-12",
+      "name": "Cycling",
+      "type": "Ride",
+      "mins": 188,
+      "km": 80.9,
+      "avgHr": 137,
+      "maxHr": 173,
+      "avgW": 145,
+      "np": 173,
+      "load": 139
+    },
+    {
+      "date": "2026-10-10",
+      "name": "Cycling",
+      "type": "Ride",
+      "mins": 133,
+      "km": 61,
+      "avgHr": 137,
+      "maxHr": 167,
+      "avgW": 155,
+      "np": 181,
+      "load": 108
+    },
+    {
+      "date": "2026-10-09",
+      "name": "Activity",
+      "type": "",
+      "mins": 0,
+      "km": 0,
+      "avgHr": null,
+      "maxHr": null,
+      "avgW": null,
+      "np": null,
+      "load": null
+    },
+    {
+      "date": "2026-10-08",
+      "name": "Cycling",
+      "type": "Ride",
+      "mins": 71,
+      "km": 32.4,
+      "avgHr": null,
+      "maxHr": null,
+      "avgW": 191,
+      "np": 226,
+      "load": 90
+    },
+    {
+      "date": "2026-10-08",
+      "name": "Lift",
+      "type": "WeightTraining",
+      "mins": 30,
+      "km": 0,
+      "avgHr": null,
+      "maxHr": null,
+      "avgW": null,
+      "np": null,
+      "load": null
+    },
+    {
+      "date": "2026-10-07",
+      "name": "Lift",
+      "type": "WeightTraining",
+      "mins": 30,
+      "km": 0,
+      "avgHr": null,
+      "maxHr": null,
+      "avgW": null,
+      "np": null,
+      "load": null
+    }
+  ],
+  "series": [
+    {
+      "d": "2026-10-07",
+      "ctl": 60.7,
+      "atl": 52.1,
+      "form": 8.7
+    },
+    {
+      "d": "2026-10-08",
+      "ctl": 61.4,
+      "atl": 57.1,
+      "form": 4.3
+    },
+    {
+      "d": "2026-10-09",
+      "ctl": 60,
+      "atl": 49.5,
+      "form": 10.5
+    },
+    {
+      "d": "2026-10-10",
+      "ctl": 61.1,
+      "atl": 57.3,
+      "form": 3.8
+    },
+    {
+      "d": "2026-10-11",
+      "ctl": 59.7,
+      "atl": 49.7,
+      "form": 10
+    },
+    {
+      "d": "2026-10-12",
+      "ctl": 61.5,
+      "atl": 61.6,
+      "form": 0
+    },
+    {
+      "d": "2026-10-13",
+      "ctl": 61.8,
+      "atl": 63.2,
+      "form": -1.4
+    },
+    {
+      "d": "2026-10-14",
+      "ctl": 62.9,
+      "atl": 68.9,
+      "form": -6
+    },
+    {
+      "d": "2026-10-15",
+      "ctl": 64.4,
+      "atl": 76.9,
+      "form": -12.5
+    },
+    {
+      "d": "2026-10-16",
+      "ctl": 65.9,
+      "atl": 83.7,
+      "form": -17.8
+    },
+    {
+      "d": "2026-10-17",
+      "ctl": 67.2,
+      "atl": 88.5,
+      "form": -21.3
+    },
+    {
+      "d": "2026-10-18",
+      "ctl": 66,
+      "atl": 79,
+      "form": -13
+    },
+    {
+      "d": "2026-10-19",
+      "ctl": 66,
+      "atl": 77.4,
+      "form": -11.4
+    },
+    {
+      "d": "2026-10-20",
+      "ctl": 65.9,
+      "atl": 75.2,
+      "form": -9.3
+    },
+    {
+      "d": "2026-10-21",
+      "ctl": 67.9,
+      "atl": 85.2,
+      "form": -17.3
+    },
+    {
+      "d": "2026-10-22",
+      "ctl": 67.6,
+      "atl": 81,
+      "form": -13.5
+    },
+    {
+      "d": "2026-10-23",
+      "ctl": 67.3,
+      "atl": 77.8,
+      "form": -10.5
+    },
+    {
+      "d": "2026-10-24",
+      "ctl": 69.2,
+      "atl": 87,
+      "form": -17.8
+    }
+  ],
+  "refreshedAt": "2026-10-23T13:25:28.108Z"
+}
