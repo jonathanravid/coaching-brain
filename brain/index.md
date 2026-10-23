@@ -3,7 +3,7 @@
 - [[profile]] — Measured zones, run cap, races, and how to coach.
 - [[plan-shamrock-2027]] — Blocks A–E for Shamrock then St. Anthony's. Gates decide pace.
 - [[race-plan]] — Course pacing, fueling, and which long runs rehearse race day.
-- [[github]] — Private repo jonathanravid/coaching-brain. Pages and the hourly refresh still need two secrets and Pages turned on by hand.
+- [[github]] — Private repo. Public desk at jonathanravid.github.io/coaching-brain. Hourly refresh still needs the two Actions secrets.
 - [[2023-10-16]] — 2023-10-16 through 2023-10-22. Load from expandable activities: 171. CTL about 98.
 - [[2023-10-23]] — 2023-10-23 through 2023-10-29. Load from expandable activities: 834. CTL about 103.
 - [[2023-10-30]] — 2023-10-30 through 2023-11-05. Load from expandable activities: 483. CTL about 97.
