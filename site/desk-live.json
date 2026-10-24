@@ -1,10 +1,10 @@
 {
   "ok": true,
-  "today": "2026-10-23",
-  "asOf": "2026-10-23",
-  "ctl": 68.2,
-  "atl": 82.6,
-  "form": -14.5,
+  "today": "2026-10-24",
+  "asOf": "2026-10-24",
+  "ctl": 70,
+  "atl": 91.2,
+  "form": -21.2,
   "restingHr": null,
   "restingDate": null,
   "sessions": [
@@ -307,27 +307,9 @@
       "avgW": null,
       "np": null,
       "load": null
-    },
-    {
-      "date": "2026-10-07",
-      "name": "Lift",
-      "type": "WeightTraining",
-      "mins": 30,
-      "km": 0,
-      "avgHr": null,
-      "maxHr": null,
-      "avgW": null,
-      "np": null,
-      "load": null
     }
   ],
   "series": [
-    {
-      "d": "2026-10-07",
-      "ctl": 60.7,
-      "atl": 52.1,
-      "form": 8.7
-    },
     {
       "d": "2026-10-08",
       "ctl": 61.4,
@@ -429,7 +411,13 @@
       "ctl": 70,
       "atl": 91.2,
       "form": -21.2
+    },
+    {
+      "d": "2026-10-25",
+      "ctl": 68.6,
+      "atl": 80.1,
+      "form": -11.6
     }
   ],
-  "refreshedAt": "2026-10-24T00:47:08.504Z"
+  "refreshedAt": "2026-10-24T05:58:25.805Z"
 }
