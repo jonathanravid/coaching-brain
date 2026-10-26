@@ -1,10 +1,10 @@
 {
   "ok": true,
-  "today": "2026-10-25",
-  "asOf": "2026-10-25",
-  "ctl": 71.7,
-  "atl": 98.3,
-  "form": -26.7,
+  "today": "2026-10-26",
+  "asOf": "2026-10-26",
+  "ctl": 70.8,
+  "atl": 89.7,
+  "form": -18.9,
   "restingHr": null,
   "restingDate": null,
   "sessions": [
@@ -295,27 +295,9 @@
       "avgW": 155,
       "np": 181,
       "load": 108
-    },
-    {
-      "date": "2026-10-09",
-      "name": "Activity",
-      "type": "",
-      "mins": 0,
-      "km": 0,
-      "avgHr": null,
-      "maxHr": null,
-      "avgW": null,
-      "np": null,
-      "load": null
     }
   ],
   "series": [
-    {
-      "d": "2026-10-09",
-      "ctl": 60,
-      "atl": 49.5,
-      "form": 10.5
-    },
     {
       "d": "2026-10-10",
       "ctl": 61.1,
@@ -417,7 +399,13 @@
       "ctl": 70.8,
       "atl": 89.7,
       "form": -18.9
+    },
+    {
+      "d": "2026-10-27",
+      "ctl": 69.9,
+      "atl": 82.4,
+      "form": -12.4
     }
   ],
-  "refreshedAt": "2026-10-26T00:26:27.333Z"
+  "refreshedAt": "2026-10-26T06:20:59.850Z"
 }
