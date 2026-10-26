@@ -161,4 +161,5 @@
 - [[2026-09-28]] — 2026-09-28 through 2026-10-04. Load from expandable activities: 509. CTL about 62.
 - [[2026-10-05]] — 2026-10-05 through 2026-10-11. Load from expandable activities: 198. CTL about 61.
 - [[2026-10-12]] — 2026-10-12 through 2026-10-18. Load from expandable activities: 619. CTL about 64.
-- [[2026-10-19]] — Test week. Weekend stays as written: easy 3:30 ride Saturday, easy 70-minute run Sunday. Form −10.5.
+- [[2026-10-19]] — Easy 3:30 Saturday. Sunday run 85 min at 156, a bit long. Extra easy 2h ride was not planned. Form −19.7 Monday.
+- [[2026-10-26]] — Block A week 1. Lift done. Swims now have a warmup, then a main set.

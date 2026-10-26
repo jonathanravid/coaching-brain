@@ -139,9 +139,9 @@ Library, so the calendar entries are these structures:
 - B-VO2: 15 min at 110–145 W, 6×3 min at 290–305 W, heart-rate cap 196, 3 min at 110–145 W. No other hard bike that week.
 - B-20TT: cancelled. The 21 Oct test stands.
 - B-long: on the trainer, 165–190 W and heart rate 150–165. Outside, heart rate 150–165 only. The watts will be higher. Eat. No sprints. If heart rate climbs through 165, the watts come down.
-- S-aer: 2,000–2,500 m, drills, slower than 1:40/100m.
-- S-css: 400 all-out, 60 sec rest, 200 all-out. CSS = (400 time − 200 time) / 2.
-- S-reps: 10×100, rest 20 sec, start at 1:35/100m and move toward 1:25 only after CSS exists.
+- S-aer: warmup 400 m slower than 1:40/100m, then a main set of 2,000 m at the same pace. Not one unlabeled swim.
+- S-css: warmup 400 m easy, then the main set: 400 all-out, 60 sec rest, 200 all-out. CSS = (400 time − 200 time) / 2. No pace target on the test.
+- S-reps: warmup 400 m easy, main set 10×100 with 20 sec rest, cooldown 200 m easy. Start at 1:35/100m and move toward 1:25 only after CSS exists.
 
 ## Weeks
 
