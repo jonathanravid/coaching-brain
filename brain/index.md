@@ -1,6 +1,6 @@
 # Index
 
-- [[profile]] — Measured zones, run cap, races, and how to coach.
+- [[profile]] — Measured zones, run cap, races, and how to coach. Workouts carry pace or power plus heart rate, updated from recent sessions.
 - [[plan-shamrock-2027]] — Blocks A–E for Shamrock then St. Anthony's. Gates decide pace.
 - [[race-plan]] — Course pacing, fueling, and which long runs rehearse race day.
 - [[github]] — Private repo. Public desk at jonathanravid.github.io/coaching-brain. Hourly refresh still needs the two Actions secrets.

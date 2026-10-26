@@ -128,18 +128,18 @@ Sub-2 at St. Anthony's is the closer goal. Swim is already ~22 minutes. The Plea
 
 Library, so the calendar entries are these structures:
 
-- R-Z4: 15 min Z2, 6×3 min at 171–179, 90 sec jog ≤161, 10 min Z1.
-- R-subT: 15 min Z2, 5×6 min at 4:15–4:30/km and 171–179, 2 min jog, 10 min Z1.
+- R-Z4: 15 min at 5:20–5:40/km and Z2, then 3 min at 3:55–4:05/km and 171–179, 90 sec jog at 5:40–6:30/km, 10 min Z1. Pace from the 17 Sep reps. Heart rate decides.
+- R-subT: 15 min at 5:20–5:40/km and Z2, 6 min at 4:15–4:30/km and 171–179, 2 min jog, 10 min Z1. Pace from the 10 Sep 8-minute reps. Not the 3-minute pace.
 - R-T: 15 min Z2, 4×8 min at 4:02–4:14/km and 178–184, 2 min jog, 10 min Z1.
 - R-HMp: 15 min Z2, repeats at the Gate 2 pace, heart-rate cap 184, jog equal rest until the session says otherwise, 10 min Z1.
-- R-long: the minutes in the table, HR ≤161, slower than 5:15/km.
+- R-long: the minutes in the table, 5:20–5:50/km, heart rate 153–161. Walk at 162. Move this faster only when an easy long run is quicker than 5:20 and still at or under 161.
 - B-SS: 15 min at 110–145 W, 3×10 min at 222–236 W and 166–172 bpm, 5 min at 110–145 W, 10 min at 110–145 W.
 - B-Z4: 15 min at 110–145 W, 2×15 min at 229–244 W and 173–183 bpm, 5 min at 110–145 W, 10 min cool-down at 110–145 W. Every step has watts.
 - B-T: 20 min at 110–145 W, 2×20 min at 239–252 W, heart-rate cap 189, recoveries at 110–145 W.
 - B-VO2: 15 min at 110–145 W, 6×3 min at 290–305 W, heart-rate cap 196, 3 min at 110–145 W. No other hard bike that week.
 - B-20TT: cancelled. The 21 Oct test stands.
 - B-long: on the trainer, 165–190 W and heart rate 150–165. Outside, heart rate 150–165 only. The watts will be higher. Eat. No sprints. If heart rate climbs through 165, the watts come down.
-- S-aer: warmup 400 m slower than 1:40/100m, then a main set of 2,000 m at the same pace. Not one unlabeled swim.
+- S-aer: warmup 400 m at 1:40–1:55/100m, then 2,000 m at the same pace. Not a zone label. The 5 Nov CSS test replaces this.
 - S-css: warmup 400 m easy, then the main set: 400 all-out, 60 sec rest, 200 all-out. CSS = (400 time − 200 time) / 2. No pace target on the test.
 - S-reps: warmup 400 m easy, main set 10×100 with 20 sec rest, cooldown 200 m easy. Start at 1:35/100m and move toward 1:25 only after CSS exists.
 
