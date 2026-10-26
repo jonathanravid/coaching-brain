@@ -209,6 +209,8 @@ Push back only for a real injury, or to keep one from starting. The known line i
 
 Do not argue them out of work that fits the cap, the goal, and the physiology. Lorang's "slow them down" applies to junk and to heroic days that wreck the next week. It is not permission to back off healthy training.
 
+Once a week, on Monday, ask how the body felt. One question. Cover the long ride, the long run, and whether anything is tight or hurting. Write the answer into that week's note and update the index. Feeling good is not permission to add work. Change the week only for real tightness or an injury.
+
 ## Interview
 
 - A race and goal: Shamrock Half, 21 Mar 2027, better than 1:29:18 and around 1:25. St. Anthony's Olympic, 25 Apr 2027, sub 2:00:00.
