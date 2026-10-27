@@ -2,12 +2,24 @@
   "ok": true,
   "today": "2026-10-27",
   "asOf": "2026-10-27",
-  "ctl": 70.3,
-  "atl": 84.5,
-  "form": -14.2,
+  "ctl": 71.1,
+  "atl": 88.8,
+  "form": -17.7,
   "restingHr": null,
   "restingDate": null,
   "sessions": [
+    {
+      "date": "2026-10-27",
+      "name": "Zwift - Laps, Camera, Traction in Watopia",
+      "type": "VirtualRide",
+      "mins": 54,
+      "km": 25.9,
+      "avgHr": 123,
+      "maxHr": 133,
+      "avgW": 147,
+      "np": 149,
+      "load": 32
+    },
     {
       "date": "2026-10-26",
       "name": "Block A — Light lift",
@@ -408,16 +420,16 @@
     },
     {
       "d": "2026-10-27",
-      "ctl": 70.3,
-      "atl": 84.5,
-      "form": -14.2
+      "ctl": 71.1,
+      "atl": 88.8,
+      "form": -17.7
     },
     {
       "d": "2026-10-28",
-      "ctl": 70,
-      "atl": 81,
-      "form": -10.9
+      "ctl": 70.8,
+      "atl": 84.7,
+      "form": -13.9
     }
   ],
-  "refreshedAt": "2026-10-27T06:21:57.072Z"
+  "refreshedAt": "2026-10-27T13:17:58.796Z"
 }
