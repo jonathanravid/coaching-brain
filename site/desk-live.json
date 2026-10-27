@@ -2,12 +2,24 @@
   "ok": true,
   "today": "2026-10-27",
   "asOf": "2026-10-27",
-  "ctl": 71.1,
-  "atl": 88.8,
-  "form": -17.7,
-  "restingHr": null,
-  "restingDate": null,
+  "ctl": 71.4,
+  "atl": 90.6,
+  "form": -19.2,
+  "restingHr": 79,
+  "restingDate": "2026-10-27",
   "sessions": [
+    {
+      "date": "2026-10-27",
+      "name": "Block A — Z4 run 6x3 min at 4:00/km",
+      "type": "Run",
+      "mins": 62,
+      "km": 11.4,
+      "avgHr": 151,
+      "maxHr": 179,
+      "avgW": null,
+      "np": null,
+      "load": 58
+    },
     {
       "date": "2026-10-27",
       "name": "Zwift - Laps, Camera, Traction in Watopia",
@@ -420,16 +432,16 @@
     },
     {
       "d": "2026-10-27",
-      "ctl": 71.1,
-      "atl": 88.8,
-      "form": -17.7
+      "ctl": 71.4,
+      "atl": 90.6,
+      "form": -19.2
     },
     {
       "d": "2026-10-28",
-      "ctl": 70.8,
-      "atl": 84.7,
-      "form": -13.9
+      "ctl": 71.1,
+      "atl": 86.3,
+      "form": -15.2
     }
   ],
-  "refreshedAt": "2026-10-27T18:45:39.547Z"
+  "refreshedAt": "2026-10-27T22:59:26.164Z"
 }
