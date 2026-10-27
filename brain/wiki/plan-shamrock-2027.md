@@ -128,7 +128,7 @@ Sub-2 at St. Anthony's is the closer goal. Swim is already ~22 minutes. The Plea
 
 Library, so the calendar entries are these structures:
 
-- R-Z4: 15 min at 5:20–5:40/km and Z2, then 3 min at 3:55–4:05/km and 171–179, 90 sec jog at 5:40–6:30/km, 10 min Z1. Pace from the 17 Sep reps. Heart rate decides.
+- R-Z4: 15 min at 5:20–5:40/km and Z2, then 3 min at 4:00–4:06/km and 171–179, 90 sec jog at 5:40–6:30/km, 10 min Z1. Pace from the 27 Oct reps. Heart rate decides.
 - R-subT: 15 min at 5:20–5:40/km and Z2, 6 min at 4:15–4:30/km and 171–179, 2 min jog, 10 min Z1. Pace from the 10 Sep 8-minute reps. Not the 3-minute pace.
 - R-T: 15 min Z2, 4×8 min at 4:02–4:14/km and 178–184, 2 min jog, 10 min Z1.
 - R-HMp: 15 min Z2, repeats at the Gate 2 pace, heart-rate cap 184, jog equal rest until the session says otherwise, 10 min Z1.
