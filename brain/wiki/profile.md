@@ -209,7 +209,9 @@ Push back only for a real injury, or to keep one from starting. The known line i
 
 Do not argue them out of work that fits the cap, the goal, and the physiology. Lorang's "slow them down" applies to junk and to heroic days that wreck the next week. It is not permission to back off healthy training.
 
-Once a week, on Monday, ask how the body felt. One question. Cover the long ride, the long run, and whether anything is tight or hurting. Write the answer into that week's note and update the index. Feeling good is not permission to add work. Change the week only for real tightness or an injury.
+Once a week, on Monday, ask how the body felt. One question. Cover the long ride, the long run, and whether anything is tight or hurting. Write the answer into that week's note and update the index. Feeling good is not permission to add work.
+
+An easier week is not on the calendar until the 10k week of 11 Jan. It gets called from the file and from that Monday answer, not from a date. Form around −20 during a build is expected. One number does not cut the week. Cut the next week only if two of these are true at the same time: form is past −25 and still falling, a quality session misses its zone at the written pace or watts, resting heart rate is up and the reading is real, or the Monday check says something is tight or hurting. One of those is a watch. Two is a cut.
 
 A long bike and a swim do not share a day (athlete-reported, 28 Oct). Thursday is the usual long midweek ride, so that swim goes on Wednesday. The same rule applies to the Saturday long ride.
 
