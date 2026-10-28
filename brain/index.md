@@ -163,4 +163,4 @@
 - [[2026-10-12]] — 2026-10-12 through 2026-10-18. Load from expandable activities: 619. CTL about 64.
 - [[2026-10-19]] — Easy 3:30 Saturday. Sunday run 85 min at 156, a bit long. Extra easy 2h ride was not planned. Form −19.7 Monday.
 - [[2026-10-26]] — Block A week 1 stays big. 27 Oct 6×3 was 4:02–4:06. Travel the week after.
-- [[2026-11-02]] — Travel week. Runs stay. Hotel spins at 150–165, no watts. CSS moved to 9 Nov.
+- [[2026-11-02]] — Travel weekdays are short hotel spins. Saturday is still the 4:45. Sunday is the long run. Swims are not on long-bike days.

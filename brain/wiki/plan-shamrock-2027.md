@@ -120,8 +120,8 @@ Sub-2 at St. Anthony's is the closer goal. Swim is already ~22 minutes. The Plea
 | --- | --- |
 | Mon | Swim aerobic, drills. Optional light lift, not a leg burnout. |
 | Tue | The hard run, or the test. |
-| Wed | Bike 1, or endurance if the week is already at its hard-bike count. |
-| Thu | Swim quality. No run once the long run is 9 miles or more. |
+| Wed | Bike 1, and the swim. A long bike day has no swim. |
+| Thu | The midweek long ride when the week has one. No swim that day. No run once the long run is 9 miles or more. |
 | Fri | Bike 2, unless the week is a one-hard-bike week. |
 | Sat | Long ride, Z2, 150–165 bpm. |
 | Sun | Long run, Z2. |
@@ -150,8 +150,8 @@ Run miles are the hard day plus the long run. They stay under 20. Hours stay und
 | Wk | Monday | Hard run | Long run | Hard bikes | Long ride | Swim |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | 26 Oct | R-Z4, 6×3 min | 80 min | Trainer: sweet spot, 2×15 at 229–244 W (2) | Trainer 4:30 at 165–190 W, or outside at 150–165 bpm. Thu 2:30 the same. | 2 × S-aer |
-| 2 | 2 Nov | R-Z4, 6×3 min at 4:00–4:06 | 80 min | none. Travel. Three hotel spins, heart rate 150–165, no watts: Wed 45, Fri 45, Sat 60 max | none. The 4:45 is cancelled | Pool only if the hotel has one. CSS moved to 9 Nov |
-| 3 | 9 Nov | R-subT, 5×6 min | 85 min | Trainer: sweet spot, 2×15 at 229–244 W (2) | Trainer 5:00 at 165–190 W, or outside at 150–165 bpm. Thu 3:30 the same. | CSS on Mon 9 Nov, then S-reps Thu |
+| 2 | 2 Nov | R-Z4, 6×3 min at 4:00–4:06 | 80 min | none on the weekdays. Hotel spins, heart rate 150–165, no watts: Wed 45, Fri 45. Thu off. | Sat 4:45. Trainer 165–190 W and 150–165 bpm, or outside at 150–165 if there is no trainer. | Pool only if the hotel has one, and not on a long-bike day. CSS is 9 Nov |
+| 3 | 9 Nov | R-subT, 5×6 min | 85 min | Trainer: sweet spot, 2×15 at 229–244 W (2) | Trainer 5:00 at 165–190 W, or outside at 150–165 bpm. Thu 3:30 the same. | CSS Mon 9 Nov. S-reps Wed 11 Nov, not on the Thu long ride |
 | 4 | 16 Nov | R-Z4, 5×3 min | 75 min | Wed Z2, Fri trainer 2×20 at 239–252 W (1) | Trainer 4:30 at 165–190 W, or outside at 150–165 bpm. Thu 3:00 the same. | 2 × S-aer |
 | 5 | 23 Nov | R-subT | 80 min | B-SS, B-T (2) | 3:00 | S-aer + S-reps |
 | 6 | 30 Nov | R-subT | 85 min, ~10 mi | B-VO2 only (1) | 2:30 | S-aer + S-reps |

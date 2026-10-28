@@ -211,6 +211,8 @@ Do not argue them out of work that fits the cap, the goal, and the physiology. L
 
 Once a week, on Monday, ask how the body felt. One question. Cover the long ride, the long run, and whether anything is tight or hurting. Write the answer into that week's note and update the index. Feeling good is not permission to add work. Change the week only for real tightness or an injury.
 
+A long bike and a swim do not share a day (athlete-reported, 28 Oct). Thursday is the usual long midweek ride, so that swim goes on Wednesday. The same rule applies to the Saturday long ride.
+
 Every workout on the calendar has a pace or a power target as well as heart rate. Heart rate decides when the two disagree. Outside, heart rate wins over the indoor watts. Swim pace is in the pool; the CSS reps stay unpaced. After a quality session, rewrite the next workout of that type from the last two or three of them. Do not use an age formula or a goal pace. Do not make the long run faster because a rep was fast. The easy ceiling stays 5:15/km and 161 bpm until an easy run is actually faster than that and the heart rate is still at or under 161.
 
 Targets set 26 Oct 2026, from the files, not from the 1:25 goal:
