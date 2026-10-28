@@ -150,8 +150,8 @@ Run miles are the hard day plus the long run. They stay under 20. Hours stay und
 | Wk | Monday | Hard run | Long run | Hard bikes | Long ride | Swim |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | 26 Oct | R-Z4, 6×3 min | 80 min | Trainer: sweet spot, 2×15 at 229–244 W (2) | Trainer 4:30 at 165–190 W, or outside at 150–165 bpm. Thu 2:30 the same. | 2 × S-aer |
-| 2 | 2 Nov | R-Z4, 6×3 min | 80 min | Trainer: sweet spot, 2×15 at 229–244 W (2) | Trainer 4:45 at 165–190 W, or outside at 150–165 bpm. Thu 3:30 the same. | S-aer + S-css |
-| 3 | 9 Nov | R-subT, 5×6 min | 85 min | Trainer: sweet spot, 2×15 at 229–244 W (2) | Trainer 5:00 at 165–190 W, or outside at 150–165 bpm. Thu 3:30 the same. | S-aer + S-reps |
+| 2 | 2 Nov | R-Z4, 6×3 min at 4:00–4:06 | 80 min | none. Travel. Three hotel spins, heart rate 150–165, no watts: Wed 45, Fri 45, Sat 60 max | none. The 4:45 is cancelled | Pool only if the hotel has one. CSS moved to 9 Nov |
+| 3 | 9 Nov | R-subT, 5×6 min | 85 min | Trainer: sweet spot, 2×15 at 229–244 W (2) | Trainer 5:00 at 165–190 W, or outside at 150–165 bpm. Thu 3:30 the same. | CSS on Mon 9 Nov, then S-reps Thu |
 | 4 | 16 Nov | R-Z4, 5×3 min | 75 min | Wed Z2, Fri trainer 2×20 at 239–252 W (1) | Trainer 4:30 at 165–190 W, or outside at 150–165 bpm. Thu 3:00 the same. | 2 × S-aer |
 | 5 | 23 Nov | R-subT | 80 min | B-SS, B-T (2) | 3:00 | S-aer + S-reps |
 | 6 | 30 Nov | R-subT | 85 min, ~10 mi | B-VO2 only (1) | 2:30 | S-aer + S-reps |
