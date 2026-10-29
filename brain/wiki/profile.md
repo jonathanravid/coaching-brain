@@ -113,6 +113,14 @@ Run, off threshold 180 (MEASURED boundaries):
 
 Bike, current, off threshold 186 and a 205 cap (MEASURED boundaries, cap itself not a measured max): 149 / 167 / 174 / 185 / 190 / 195 / 205.
 
+Power zones stay on the 21 Oct FTP of 252 W. Do not move them to match heart rate. The measured power-to-heart-rate curve, indoor, is separate:
+
+- 167 W steady for 2:30 on 29 Oct: average 133, max 145, all Z1 (MEASURED).
+- 229–235 W sweet spot on 28 Oct: average 156–159, max 167 (MEASURED).
+- 266 W for 20 min on the 21 Oct test: average 187 (MEASURED).
+
+So 170 W is a Z1 heart rate for this athlete, not Z2. A Z2 ride has to start near 200 W to have a chance at 150 bpm, and it stops at 210 W or 165 bpm, whichever comes first. It does not enter the 222 W sweet-spot band.
+
 ## A races
 
 Two races, five weeks apart. Shamrock is first. Neither goal has a made-up split.
@@ -221,7 +229,7 @@ Targets set 26 Oct 2026, from the files, not from the 1:25 goal:
 - 3-minute Z4 reps: 4:00–4:06/km. Updated from 27 Oct 2026. Six reps at 4:02–4:06/km, every one finished at 177–179, none over 179 (MEASURED). The 3:55 end is retired. The 17 Sep 3:59 rep is the older mark.
 - 6-minute sub-threshold: 4:15–4:30/km. The 10 Sep reps held 4:29–4:32/km for about 8 minutes at 164–168 (MEASURED).
 - Long run: 5:20–5:50/km, heart rate 153–161. The 25 Oct long run was 5:13/km at 156 and that was too quick (MEASURED).
-- Indoor bike, unchanged from the 21 Oct test: endurance 165–190 W, sweet spot 222–236 W, 15-minute reps 229–244 W, 20-minute reps 239–252 W with heart rate held under 189. Recent easy rides at 150–160 W were Z1. Do not lower the endurance band to match them.
+- Indoor bike, unchanged from the 21 Oct test: sweet spot 222–236 W, 15-minute reps 229–244 W, 20-minute reps 239–252 W with heart rate held under 189. Endurance watts are not 165–190 anymore for a Z2 heart rate. 29 Oct at 167 W was 133 bpm. Z2 rides start near 200 W, cap 210 W and 165 bpm.
 - Aerobic swim: 1:40–1:55/100m until the 5 Nov CSS test.
 
 ## Interview

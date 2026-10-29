@@ -162,5 +162,5 @@
 - [[2026-10-05]] — 2026-10-05 through 2026-10-11. Load from expandable activities: 198. CTL about 61.
 - [[2026-10-12]] — 2026-10-12 through 2026-10-18. Load from expandable activities: 619. CTL about 64.
 - [[2026-10-19]] — Easy 3:30 Saturday. Sunday run 85 min at 156, a bit long. Extra easy 2h ride was not planned. Form −19.7 Monday.
-- [[2026-10-26]] — 29 Oct Z2 spin was 167 W at heart rate 133, all Z1. Next one starts at 180 W. Travel the week after.
+- [[2026-10-26]] — 170 W is 133 bpm and stays Z1. FTP zones not moved. Saturday Z2 ride starts at 200 W.
 - [[2026-11-02]] — Travel weekdays are short hotel spins. Saturday is still the 4:45. Sunday is the long run. Swims are not on long-bike days.
