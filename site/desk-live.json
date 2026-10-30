@@ -3,11 +3,23 @@
   "today": "2026-10-29",
   "asOf": "2026-10-29",
   "ctl": 72.6,
-  "atl": 92.2,
-  "form": -19.6,
+  "atl": 92.5,
+  "form": -19.8,
   "restingHr": null,
   "restingDate": null,
   "sessions": [
+    {
+      "date": "2026-10-29",
+      "name": "Block A — Z2 spin 2:30 at 165-190 W",
+      "type": "VirtualRide",
+      "mins": 150,
+      "km": 83.3,
+      "avgHr": 133,
+      "maxHr": 145,
+      "avgW": 167,
+      "np": 168,
+      "load": 111
+    },
     {
       "date": "2026-10-28",
       "name": "Zwift",
@@ -433,15 +445,15 @@
     {
       "d": "2026-10-29",
       "ctl": 72.6,
-      "atl": 92.2,
-      "form": -19.6
+      "atl": 92.5,
+      "form": -19.8
     },
     {
       "d": "2026-10-30",
       "ctl": 72.3,
-      "atl": 87.8,
-      "form": -15.5
+      "atl": 88,
+      "form": -15.7
     }
   ],
-  "refreshedAt": "2026-10-29T21:12:37.250Z"
+  "refreshedAt": "2026-10-30T01:06:33.427Z"
 }
