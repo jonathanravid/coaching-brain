@@ -223,6 +223,8 @@ An easier week is not on the calendar until the 10k week of 11 Jan. It gets call
 
 A long bike and a swim do not share a day (athlete-reported, 28 Oct). Thursday is the usual long midweek ride, so that swim goes on Wednesday. The same rule applies to the Saturday long ride.
 
+Road running costs the legs more than trail at the same heart rate (athlete-reported, 31 Oct). A road long run gets no kilometer under 5:10. Trail is the better surface for the long run when it is available. The heart rate will not show this cost. The legs will.
+
 Every workout on the calendar has a pace or a power target as well as heart rate. Heart rate decides when the two disagree, except on a power session that is already inside its watt band. Do not add watts to force a heart-rate zone. That turns sweet spot into threshold. Outside, heart rate wins over the indoor watts. Swim pace is in the pool; the CSS reps stay unpaced. After a quality session, rewrite the next workout of that type from the last two or three of them. Do not use an age formula or a goal pace. Do not make the long run faster because a rep was fast. The easy ceiling stays 5:15/km and 161 bpm until an easy run is actually faster than that and the heart rate is still at or under 161.
 
 Targets set 26 Oct 2026, from the files, not from the 1:25 goal:
