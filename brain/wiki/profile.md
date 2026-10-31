@@ -228,7 +228,7 @@ Every workout on the calendar has a pace or a power target as well as heart rate
 Targets set 26 Oct 2026, from the files, not from the 1:25 goal:
 - 3-minute Z4 reps: 4:00–4:06/km. Updated from 27 Oct 2026. Six reps at 4:02–4:06/km, every one finished at 177–179, none over 179 (MEASURED). The 3:55 end is retired. The 17 Sep 3:59 rep is the older mark.
 - 6-minute sub-threshold: 4:15–4:30/km. The 10 Sep reps held 4:29–4:32/km for about 8 minutes at 164–168 (MEASURED).
-- Long run: 5:20–5:50/km, heart rate 153–161. The 25 Oct long run was 5:13/km at 156 and that was too quick (MEASURED).
+- Long run: 5:20–5:50/km, heart rate 153–161. The 25 Oct long run was 5:13/km at 156 and that was too quick (MEASURED). The 31 Oct long run is the baseline to beat: 5:18/km, average 152, max 160, nothing in Z3 (MEASURED). Do not adopt 5:18 yet. Change the easy pace only if a later long run is 5:15–5:20 and the heart rate is still at or under 161, with no kilometer under 5:00. One run does not move it. Two that match does.
 - Indoor bike, unchanged from the 21 Oct test: sweet spot 222–236 W, 15-minute reps 229–244 W, 20-minute reps 239–252 W with heart rate held under 189. Endurance on a long ride is 165–180 W. 29 Oct at 167 W was 133 bpm and the legs were tired, so a long ride does not chase Z2 heart rate. A short spin can. That one starts near 200 W, cap 210 W and 165 bpm.
 - Aerobic swim: 1:40–1:55/100m until the 5 Nov CSS test.
 
