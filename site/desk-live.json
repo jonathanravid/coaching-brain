@@ -1,10 +1,10 @@
 {
   "ok": true,
-  "today": "2026-10-30",
-  "asOf": "2026-10-30",
-  "ctl": 72.6,
-  "atl": 89.9,
-  "form": -17.2,
+  "today": "2026-10-31",
+  "asOf": "2026-10-31",
+  "ctl": 75.3,
+  "atl": 102.5,
+  "form": -27.3,
   "restingHr": null,
   "restingDate": null,
   "sessions": [
@@ -319,27 +319,9 @@
       "avgW": null,
       "np": null,
       "load": null
-    },
-    {
-      "date": "2026-10-14",
-      "name": "Back in Blacks-burg",
-      "type": "Ride",
-      "mins": 134,
-      "km": 52.9,
-      "avgHr": 128,
-      "maxHr": 168,
-      "avgW": 131,
-      "np": 179,
-      "load": 106
     }
   ],
   "series": [
-    {
-      "d": "2026-10-14",
-      "ctl": 62.9,
-      "atl": 68.9,
-      "form": -6
-    },
     {
       "d": "2026-10-15",
       "ctl": 64.4,
@@ -441,7 +423,13 @@
       "ctl": 75.3,
       "atl": 102.5,
       "form": -27.3
+    },
+    {
+      "d": "2026-11-01",
+      "ctl": 74.8,
+      "atl": 96.1,
+      "form": -21.3
     }
   ],
-  "refreshedAt": "2026-10-30T23:52:15.915Z"
+  "refreshedAt": "2026-10-31T05:52:38.254Z"
 }
