@@ -1,10 +1,10 @@
 {
   "ok": true,
-  "today": "2026-10-31",
-  "asOf": "2026-10-31",
-  "ctl": 77.1,
-  "atl": 113,
-  "form": -35.9,
+  "today": "2026-11-01",
+  "asOf": "2026-11-01",
+  "ctl": 76.6,
+  "atl": 105.2,
+  "form": -28.6,
   "restingHr": null,
   "restingDate": null,
   "sessions": [
@@ -307,39 +307,9 @@
       "avgW": null,
       "np": null,
       "load": null
-    },
-    {
-      "date": "2026-10-15",
-      "name": "Cycling",
-      "type": "Ride",
-      "mins": 93,
-      "km": 38.2,
-      "avgHr": 136,
-      "maxHr": 167,
-      "avgW": 136,
-      "np": 171,
-      "load": 67
-    },
-    {
-      "date": "2026-10-15",
-      "name": "Activity",
-      "type": "",
-      "mins": 0,
-      "km": 0,
-      "avgHr": null,
-      "maxHr": null,
-      "avgW": null,
-      "np": null,
-      "load": null
     }
   ],
   "series": [
-    {
-      "d": "2026-10-15",
-      "ctl": 64.4,
-      "atl": 76.9,
-      "form": -12.5
-    },
     {
       "d": "2026-10-16",
       "ctl": 65.9,
@@ -441,7 +411,13 @@
       "ctl": 76.6,
       "atl": 105.2,
       "form": -28.6
+    },
+    {
+      "d": "2026-11-02",
+      "ctl": 75.3,
+      "atl": 94,
+      "form": -18.7
     }
   ],
-  "refreshedAt": "2026-11-01T01:15:58.422Z"
+  "refreshedAt": "2026-11-01T07:37:47.311Z"
 }
