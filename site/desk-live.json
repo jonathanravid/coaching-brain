@@ -5,8 +5,8 @@
   "ctl": 76.6,
   "atl": 105.2,
   "form": -28.6,
-  "restingHr": null,
-  "restingDate": null,
+  "restingHr": 75,
+  "restingDate": "2026-11-01",
   "sessions": [
     {
       "date": "2026-10-31",
@@ -419,5 +419,5 @@
       "form": -18.7
     }
   ],
-  "refreshedAt": "2026-11-01T07:37:47.311Z"
+  "refreshedAt": "2026-11-01T15:15:23.596Z"
 }
