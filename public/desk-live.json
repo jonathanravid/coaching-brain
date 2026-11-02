@@ -2,12 +2,24 @@
   "ok": true,
   "today": "2026-11-02",
   "asOf": "2026-11-02",
-  "ctl": 73.1,
-  "atl": 85.5,
-  "form": -12.4,
+  "ctl": 71.7,
+  "atl": 78.5,
+  "form": -6.7,
   "restingHr": 75,
   "restingDate": "2026-11-01",
   "sessions": [
+    {
+      "date": "2026-11-02",
+      "name": "Hotel incline walk",
+      "type": "Walk",
+      "mins": 60,
+      "km": 5.6,
+      "avgHr": null,
+      "maxHr": null,
+      "avgW": null,
+      "np": null,
+      "load": 15
+    },
     {
       "date": "2026-11-01",
       "name": "Thunder Ridge",
@@ -390,22 +402,22 @@
     },
     {
       "d": "2026-11-01",
-      "ctl": 74.4,
-      "atl": 95.4,
-      "form": -21
+      "ctl": 73.1,
+      "atl": 88.2,
+      "form": -15.1
     },
     {
       "d": "2026-11-02",
-      "ctl": 73.1,
-      "atl": 85.5,
-      "form": -12.4
+      "ctl": 71.7,
+      "atl": 78.5,
+      "form": -6.7
     },
     {
       "d": "2026-11-03",
-      "ctl": 72.6,
-      "atl": 80.9,
-      "form": -8.3
+      "ctl": 71.3,
+      "atl": 74.8,
+      "form": -3.6
     }
   ],
-  "refreshedAt": "2026-11-02T16:16:00.319Z"
+  "refreshedAt": "2026-11-02T23:36:19.727Z"
 }
