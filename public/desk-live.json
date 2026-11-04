@@ -3,11 +3,23 @@
   "today": "2026-11-03",
   "asOf": "2026-11-03",
   "ctl": 71.3,
-  "atl": 74.8,
-  "form": -3.6,
+  "atl": 75,
+  "form": -3.7,
   "restingHr": 75,
   "restingDate": "2026-11-01",
   "sessions": [
+    {
+      "date": "2026-11-03",
+      "name": "Liberty Biberty",
+      "type": "Run",
+      "mins": 49,
+      "km": 9.3,
+      "avgHr": 156,
+      "maxHr": 183,
+      "avgW": null,
+      "np": null,
+      "load": 52
+    },
     {
       "date": "2026-11-02",
       "name": "Hotel incline walk",
@@ -397,15 +409,15 @@
     {
       "d": "2026-11-03",
       "ctl": 71.3,
-      "atl": 74.8,
-      "form": -3.6
+      "atl": 75,
+      "form": -3.7
     },
     {
       "d": "2026-11-04",
       "ctl": 69.9,
-      "atl": 66.5,
-      "form": 3.4
+      "atl": 66.6,
+      "form": 3.3
     }
   ],
-  "refreshedAt": "2026-11-03T21:04:12.996Z"
+  "refreshedAt": "2026-11-04T01:26:48.577Z"
 }
