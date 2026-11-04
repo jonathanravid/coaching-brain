@@ -2,12 +2,24 @@
   "ok": true,
   "today": "2026-11-04",
   "asOf": "2026-11-04",
-  "ctl": 69.9,
-  "atl": 66.6,
-  "form": 3.3,
+  "ctl": 72.1,
+  "atl": 78.8,
+  "form": -6.8,
   "restingHr": 75,
   "restingDate": "2026-11-01",
   "sessions": [
+    {
+      "date": "2026-11-04",
+      "name": "Thunder Ridge connoisseur",
+      "type": "Ride",
+      "mins": 107,
+      "km": 40.9,
+      "avgHr": 137,
+      "maxHr": 168,
+      "avgW": 177,
+      "np": 206,
+      "load": 104
+    },
     {
       "date": "2026-11-03",
       "name": "Liberty Biberty",
@@ -396,16 +408,16 @@
     },
     {
       "d": "2026-11-04",
-      "ctl": 69.9,
-      "atl": 66.6,
-      "form": 3.3
+      "ctl": 72.1,
+      "atl": 78.8,
+      "form": -6.8
     },
     {
       "d": "2026-11-05",
-      "ctl": 72,
-      "atl": 78.7,
-      "form": -6.8
+      "ctl": 72.9,
+      "atl": 82.8,
+      "form": -9.9
     }
   ],
-  "refreshedAt": "2026-11-04T18:02:00.145Z"
+  "refreshedAt": "2026-11-04T23:44:35.695Z"
 }
