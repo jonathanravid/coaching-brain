@@ -150,7 +150,7 @@ Run miles are the hard day plus the long run. They stay under 20. Hours stay und
 | Wk | Monday | Hard run | Long run | Hard bikes | Long ride | Swim |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | 26 Oct | R-Z4, 6×3 min | 80 min | Trainer: sweet spot, 2×15 at 229–244 W (2) | Trainer 4:30 at 165–190 W, or outside at 150–165 bpm. Thu 2:30 the same. | 2 × S-aer |
-| 2 | 2 Nov | R-Z4, 6×3 min at 4:00–4:06 | 80 min | Wed Thunder Ridge, upper Z2, no intervals. Fri trainer 2×15 at 229–244 W (1) | Sat 4:45. Thu 3:30 cancelled, drive home. | CSS stays 9 Nov |
+| 2 | 2 Nov | R-Z4, 6×3 min at 4:00–4:06 | 80 min | Wed Thunder Ridge, upper Z2, no intervals. Fri trainer 2×15 at 229–244 W (1) | Sat 4:45. Thu 2:30 before a 2-hour drive, 165–180 W. | CSS stays 9 Nov |
 | 3 | 9 Nov | R-subT, 5×6 min | 85 min | Trainer: sweet spot, 2×15 at 229–244 W (2) | Trainer 5:00 at 165–190 W, or outside at 150–165 bpm. Thu 3:30 the same. | CSS Mon 9 Nov. S-reps Wed 11 Nov, not on the Thu long ride |
 | 4 | 16 Nov | R-Z4, 5×3 min | 75 min | Wed Z2, Fri trainer 2×20 at 239–252 W (1) | Trainer 4:30 at 165–190 W, or outside at 150–165 bpm. Thu 3:00 the same. | 2 × S-aer |
 | 5 | 23 Nov | R-subT | 80 min | B-SS, B-T (2) | 3:00 | S-aer + S-reps |
