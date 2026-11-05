@@ -134,7 +134,7 @@ Library, so the calendar entries are these structures:
 - R-HMp: 15 min Z2, repeats at the Gate 2 pace, heart-rate cap 184, jog equal rest until the session says otherwise, 10 min Z1.
 - R-long: the minutes in the table, 5:20–5:50/km, heart rate 153–161. Walk at 162. Move this faster only when an easy long run is quicker than 5:20 and still at or under 161.
 - B-SS: 15 min at 110–145 W, 3×10 min at 222–236 W and 166–172 bpm, 5 min at 110–145 W, 10 min at 110–145 W.
-- B-Z4: 15 min at 110–145 W, 2×15 min at 229–244 W and 173–183 bpm, 5 min at 110–145 W, 10 min cool-down at 110–145 W. Every step has watts.
+- B-Z4: 15 min at 110–145 W, 2×15 min at 229–244 W, 5 min at 110–145 W, 10 min cool-down at 110–145 W. Heart rate at these watts is about 160, not 173. Do not add watts to force a zone. Cap is 183. Every step has watts.
 - B-T: 20 min at 110–145 W, 2×20 min at 239–252 W, heart-rate cap 189, recoveries at 110–145 W.
 - B-VO2: 15 min at 110–145 W, 6×3 min at 290–305 W, heart-rate cap 196, 3 min at 110–145 W. No other hard bike that week.
 - B-20TT: cancelled. The 21 Oct test stands.

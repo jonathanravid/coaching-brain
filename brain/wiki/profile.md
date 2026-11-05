@@ -116,8 +116,14 @@ Bike, current, off threshold 186 and a 205 cap (MEASURED boundaries, cap itself 
 Power zones stay on the 21 Oct FTP of 252 W. Do not move them to match heart rate. The measured power-to-heart-rate curve, indoor, is separate:
 
 - 167 W steady for 2:30 on 29 Oct: average 133, max 145, all Z1 (MEASURED).
-- 229–235 W sweet spot on 28 Oct: average 156–159, max 167 (MEASURED).
-- 266 W for 20 min on the 21 Oct test: average 187 (MEASURED).
+- 229–235 W sweet spot on 28 Oct, indoor: average 156–159, max 163–167 (MEASURED).
+- 246 W for 15 min on 30 Oct, indoor, twice: average 160 and 164, max 167 and 170 (MEASURED).
+- 241 W for 15:00 and 16:30 on 5 Nov, outdoor: average 158 and 152, max 166 and 164 (MEASURED).
+- 266 W for 20 min on the 21 Oct test, a Zwift race: average 187 (MEASURED).
+
+So 240 W does not make 170, indoors or out. A controlled 15 minutes at 240–246 W sits at 158–164. The max on the hardest of those reps was 170, for a moment, not the average. 180 is a race number. It showed up at 266 W in the 21 Oct race, not in a workout. Do not write 173–183, or 184–189, as the expected heart rate for 229–252 W. Those zones are wrong for this athlete.
+
+Quality bike sessions are power sessions. Sweet spot stays 222–236 W. The 15-minute reps stay 229–244 W. Heart rate in the high 150s or low 160s at those watts is the result, not a miss, and not a reason to add watts. Add watts only when the session is supposed to be harder, not to chase a heart-rate zone. Threshold heart rate, 180 and up, requires race power, about 266 W or more. It is not the target of a 2×15.
 
 So 170 W is a Z1 heart rate for this athlete, not Z2. On a short spin, a Z2 heart rate starts near 200 W and stops at 210 W or 165 bpm. On a long ride, the legs are the limiter, not the heart (athlete-reported, 29 Oct: 167 W, heart rate 133, legs tired at the end). Do not raise the watts on a long ride to force 150 bpm. That spends the legs before the long run. A long ride holds 165–180 W. If the legs are heavy, it comes down. Heart rate in Z1 is the expected result, not a miss.
 
@@ -231,7 +237,7 @@ Targets set 26 Oct 2026, from the files, not from the 1:25 goal:
 - 3-minute Z4 reps: 4:00–4:06/km. Updated from 27 Oct 2026. Six reps at 4:02–4:06/km, every one finished at 177–179, none over 179 (MEASURED). The 3:55 end is retired. The 17 Sep 3:59 rep is the older mark.
 - 6-minute sub-threshold: 4:15–4:30/km. The 10 Sep reps held 4:29–4:32/km for about 8 minutes at 164–168 (MEASURED).
 - Long run: 5:20–5:50/km, heart rate 153–161. The 25 Oct long run was 5:13/km at 156 and that was too quick (MEASURED). The 31 Oct long run is the baseline to beat: 5:18/km, average 152, max 160, nothing in Z3 (MEASURED). Do not adopt 5:18 yet. Change the easy pace only if a later long run is 5:15–5:20 and the heart rate is still at or under 161, with no kilometer under 5:00. One run does not move it. Two that match does.
-- Indoor bike, unchanged from the 21 Oct test: sweet spot 222–236 W, 15-minute reps 229–244 W, 20-minute reps 239–252 W with heart rate held under 189. Endurance on a long ride is 165–180 W. 29 Oct at 167 W was 133 bpm and the legs were tired, so a long ride does not chase Z2 heart rate. A short spin can. That one starts near 200 W, cap 210 W and 165 bpm.
+- Indoor bike, from the measured curve, not the zone model: sweet spot 222–236 W, 15-minute reps 229–244 W, 20-minute reps 239–252 W. Heart rate at 240 W is about 160, not 170. Do not program a heart-rate target of 173–183 on those reps. The cap stays 183 so a rep that runs away gets pulled down. 180 and up is race power, about 266 W, and it is not a workout target. Endurance on a long ride is 165–180 W. 29 Oct at 167 W was 133 bpm and the legs were tired, so a long ride does not chase Z2 heart rate. A short spin can. That one starts near 200 W, cap 210 W and 165 bpm.
 - Aerobic swim: 1:40–1:55/100m until the 5 Nov CSS test.
 
 ## Interview
