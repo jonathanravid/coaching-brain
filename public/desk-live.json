@@ -2,12 +2,24 @@
   "ok": true,
   "today": "2026-11-05",
   "asOf": "2026-11-05",
-  "ctl": 72.8,
-  "atl": 82,
-  "form": -9.3,
+  "ctl": 73.3,
+  "atl": 85.2,
+  "form": -11.9,
   "restingHr": 75,
   "restingDate": "2026-11-01",
   "sessions": [
+    {
+      "date": "2026-11-05",
+      "name": "Thunder Ridge savant",
+      "type": "Ride",
+      "mins": 137,
+      "km": 47,
+      "avgHr": 133,
+      "maxHr": 166,
+      "avgW": 154,
+      "np": 201,
+      "load": 127
+    },
     {
       "date": "2026-11-04",
       "name": "Thunder Ridge connoisseur",
@@ -396,16 +408,16 @@
     },
     {
       "d": "2026-11-05",
-      "ctl": 72.8,
-      "atl": 82,
-      "form": -9.3
+      "ctl": 73.3,
+      "atl": 85.2,
+      "form": -11.9
     },
     {
       "d": "2026-11-06",
-      "ctl": 72.5,
-      "atl": 79,
-      "form": -6.5
+      "ctl": 73,
+      "atl": 81.7,
+      "form": -8.7
     }
   ],
-  "refreshedAt": "2026-11-05T15:33:43.815Z"
+  "refreshedAt": "2026-11-05T22:04:41.447Z"
 }
