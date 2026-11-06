@@ -1,10 +1,10 @@
 {
   "ok": true,
-  "today": "2026-11-05",
-  "asOf": "2026-11-05",
-  "ctl": 73.3,
-  "atl": 85.2,
-  "form": -11.9,
+  "today": "2026-11-06",
+  "asOf": "2026-11-06",
+  "ctl": 73,
+  "atl": 81.7,
+  "form": -8.7,
   "restingHr": 75,
   "restingDate": "2026-11-01",
   "sessions": [
@@ -271,51 +271,9 @@
       "avgW": 181,
       "np": 203,
       "load": 28
-    },
-    {
-      "date": "2026-10-20",
-      "name": "Virginia Beach Running",
-      "type": "Run",
-      "mins": 35,
-      "km": 6.2,
-      "avgHr": 144,
-      "maxHr": 164,
-      "avgW": null,
-      "np": null,
-      "load": 34
-    },
-    {
-      "date": "2026-10-20",
-      "name": "Activity",
-      "type": "",
-      "mins": 0,
-      "km": 0,
-      "avgHr": null,
-      "maxHr": null,
-      "avgW": null,
-      "np": null,
-      "load": null
-    },
-    {
-      "date": "2026-10-20",
-      "name": "Strength (light legs)",
-      "type": "WeightTraining",
-      "mins": 35,
-      "km": 0,
-      "avgHr": null,
-      "maxHr": null,
-      "avgW": null,
-      "np": null,
-      "load": null
     }
   ],
   "series": [
-    {
-      "d": "2026-10-20",
-      "ctl": 65.9,
-      "atl": 75.2,
-      "form": -9.3
-    },
     {
       "d": "2026-10-21",
       "ctl": 67.9,
@@ -417,7 +375,13 @@
       "ctl": 73,
       "atl": 81.7,
       "form": -8.7
+    },
+    {
+      "d": "2026-11-07",
+      "ctl": 76.1,
+      "atl": 98.3,
+      "form": -22.1
     }
   ],
-  "refreshedAt": "2026-11-06T02:31:38.221Z"
+  "refreshedAt": "2026-11-06T11:01:37.652Z"
 }
