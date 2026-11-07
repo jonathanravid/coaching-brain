@@ -1,10 +1,10 @@
 {
   "ok": true,
-  "today": "2026-11-06",
-  "asOf": "2026-11-06",
-  "ctl": 73,
-  "atl": 81.7,
-  "form": -8.7,
+  "today": "2026-11-07",
+  "asOf": "2026-11-07",
+  "ctl": 76.1,
+  "atl": 98.3,
+  "form": -22.1,
   "restingHr": 75,
   "restingDate": "2026-11-01",
   "sessions": [
@@ -235,51 +235,9 @@
       "avgW": 151,
       "np": 160,
       "load": 54
-    },
-    {
-      "date": "2026-10-21",
-      "name": "Zwift - Race: Stage 3 - Race - Tour of Watopia 2026 (A)",
-      "type": "VirtualRide",
-      "mins": 37,
-      "km": 21.3,
-      "avgHr": 168,
-      "maxHr": 194,
-      "avgW": 199,
-      "np": 230,
-      "load": 45
-    },
-    {
-      "date": "2026-10-21",
-      "name": "20-min FTP test",
-      "type": "VirtualRide",
-      "mins": 72,
-      "km": 0,
-      "avgHr": 159,
-      "maxHr": 194,
-      "avgW": 178,
-      "np": 216,
-      "load": 77
-    },
-    {
-      "date": "2026-10-21",
-      "name": "Warmup",
-      "type": "VirtualRide",
-      "mins": 30,
-      "km": 18.5,
-      "avgHr": 152,
-      "maxHr": 183,
-      "avgW": 181,
-      "np": 203,
-      "load": 28
     }
   ],
   "series": [
-    {
-      "d": "2026-10-21",
-      "ctl": 67.9,
-      "atl": 85.2,
-      "form": -17.3
-    },
     {
       "d": "2026-10-22",
       "ctl": 67.6,
@@ -381,7 +339,13 @@
       "ctl": 76.1,
       "atl": 98.3,
       "form": -22.1
+    },
+    {
+      "d": "2026-11-08",
+      "ctl": 75.6,
+      "atl": 92.4,
+      "form": -16.8
     }
   ],
-  "refreshedAt": "2026-11-07T02:52:09.260Z"
+  "refreshedAt": "2026-11-07T10:21:58.478Z"
 }
