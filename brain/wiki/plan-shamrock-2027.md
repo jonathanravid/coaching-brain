@@ -139,7 +139,7 @@ Library, so the calendar entries are these structures:
 - B-T: 20 min at 110–145 W, 2×20 min at 239–252 W, heart-rate cap 189, recoveries at 110–145 W.
 - B-VO2: 15 min at 110–145 W, 6×3 min at 290–305 W, heart-rate cap 196, 3 min at 110–145 W. No other hard bike that week.
 - B-20TT: cancelled. The 21 Oct test stands.
-- B-long: on the trainer, 165–190 W and heart rate 150–165. Outside, heart rate 150–165 only. The watts will be higher. Eat. No sprints. If heart rate climbs through 165, the watts come down.
+- B-long: the goal is time. Indoor 150–170 W, heart rate in the 120s and 130s is correct. Outdoor 125–140, cap 145. A 4-hour ride at 150–165 is a race, not a long ride. Eat. No sprints. If the legs are heavy, the watts come down.
 - S-aer: warmup 400 m at 1:40–1:55/100m, then 2,000 m at the same pace. Not a zone label. The 5 Nov CSS test replaces this.
 - S-css: warmup 400 m easy, then the main set: 400 all-out, 60 sec rest, 200 all-out. CSS = (400 time − 200 time) / 2. No pace target on the test.
 - S-reps: warmup 400 m easy, main set 10×100 with 20 sec rest, cooldown 200 m easy. Start at 1:35/100m and move toward 1:25 only after CSS exists.

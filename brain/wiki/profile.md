@@ -132,7 +132,7 @@ Same watts, lower heart rate outside. 241–246 W is 160–164 indoors and 152�
 
 Indoor prescription: sweet spot 222–236 W, 15-minute reps 229–244 W, 20-minute reps 239–252 W. Heart rate at 240 W is about 160. Do not write 173–183 as the target. Cap is 183 so a rep that runs away gets pulled down.
 
-Outdoor prescription: heart rate only. Endurance and climbs 150–165. A quality rep, the outdoor version of the 2×15, is 155–165, cap 170. Record the watts. Do not prescribe them. 180 and up is race power, about 266 W indoors, and it is not a workout target in either place.
+Outdoor prescription: heart rate only, and the length changes the zone. A quality rep, the outdoor version of the 2×15, is 155–165, cap 170. A long ride is not that. Holding 150–165 for 4 hours is one of the hardest sessions they can do (athlete-reported, 8 Nov). A 4-hour outdoor ride is 125–140, cap 145. The watts will land around 150–180. Do not push to 200 to force 150. Record the watts. Do not prescribe them. 180 and up is race power, about 266 W indoors, and it is not a workout target in either place.
 
 170 W is a Z1 heart rate indoors, not Z2. On a short indoor spin, a Z2 heart rate starts near 200 W and stops at 210 W or 165 bpm. On a long ride the legs are the limiter, not the heart (athlete-reported, 29 Oct: 167 W, heart rate 133, legs tired at the end). A long indoor ride holds 165–180 W. If the legs are heavy, it comes down. Heart rate in Z1 is the expected result, not a miss. An outdoor long ride uses 150–165 bpm and ignores the indoor watts.
 
@@ -247,7 +247,7 @@ Targets set 26 Oct 2026, from the files, not from the 1:25 goal:
 - 6-minute sub-threshold: 4:15–4:30/km. The 10 Sep reps held 4:29–4:32/km for about 8 minutes at 164–168 (MEASURED).
 - Long run: 5:20–5:50/km, heart rate 153–161. The 25 Oct long run was 5:13/km at 156 and that was too quick (MEASURED). The 31 Oct long run is the baseline to beat: 5:18/km, average 152, max 160, nothing in Z3 (MEASURED). Do not adopt 5:18 yet. Change the easy pace only if a later long run is 5:15–5:20 and the heart rate is still at or under 161, with no kilometer under 5:00. One run does not move it. Two that match does.
 - Indoor bike: sweet spot 222–236 W, 15-minute reps 229–244 W, 20-minute reps 239–252 W. Heart rate at 240 W is about 160. Do not program 173–183 on those reps. Cap is 183.
-- Outdoor bike: heart rate only. Endurance and climbs 150–165. A quality rep is 155–165, cap 170. Do not write indoor watts on an outdoor workout, and do not score outdoor watts against the indoor target. Same watts run a lower heart rate outside (MEASURED: 241 W was 152–158 outside, 246 W was 160–164 inside).
+- Outdoor bike: heart rate only, and length changes the zone. A quality rep is 155–165, cap 170. A long ride is 125–140, cap 145. Holding 150–165 for 4 hours is a race, not a long ride (athlete-reported, 8 Nov). Do not write indoor watts on an outdoor workout. Same watts run a lower heart rate outside (MEASURED: 241 W was 152–158 outside, 246 W was 160–164 inside).
 - Long indoor rides are 165–180 W. Legs are the limiter. Do not chase Z2 heart rate on them.
 - Aerobic swim: 1:40–1:55/100m until the 5 Nov CSS test.
 
