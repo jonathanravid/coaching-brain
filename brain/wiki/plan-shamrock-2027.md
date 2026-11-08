@@ -133,7 +133,7 @@ Library, so the calendar entries are these structures:
 - R-T: 15 min Z2, 4×8 min at 4:02–4:14/km and 178–184, 2 min jog, 10 min Z1.
 - R-HMp: 15 min Z2, repeats at the Gate 2 pace, heart-rate cap 184, jog equal rest until the session says otherwise, 10 min Z1.
 - R-long: the minutes in the table, 5:20–5:50/km, heart rate 153–161. Walk at 162. Move this faster only when an easy long run is quicker than 5:20 and still at or under 161.
-- B-SS: 15 min at 110–145 W, 3×10 min at 222–236 W and 166–172 bpm, 5 min at 110–145 W, 10 min at 110–145 W.
+- B-SS: 15 min at 110–145 W, 3×10 min at 222–236 W, 5 min at 110–145 W, 10 min at 110–145 W. Heart rate at these watts is about 156–160, from 28 Oct. Do not chase 166. Cap is 172.
 - B-Z4 indoor: 15 min at 110–145 W, 2×15 min at 229–244 W, 5 min at 110–145 W, 10 min cool-down. Heart rate at these watts is about 160. Cap is 183. Every step has watts.
 - B-Z4 outdoor: heart rate 155–165, cap 170. No watt target. Do not score the outdoor watts against 229–244.
 - B-T: 20 min at 110–145 W, 2×20 min at 239–252 W, heart-rate cap 189, recoveries at 110–145 W.
@@ -152,7 +152,7 @@ Run miles are the hard day plus the long run. They stay under 20. Hours stay und
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | 26 Oct | R-Z4, 6×3 min | 80 min | Trainer: sweet spot, 2×15 at 229–244 W (2) | Trainer 4:30 at 165–190 W, or outside at 150–165 bpm. Thu 2:30 the same. | 2 × S-aer |
 | 2 | 2 Nov | R-Z4, 6×3 min at 4:00–4:06 | 80 min | Wed Thunder Ridge, upper Z2, no intervals. Fri trainer 2×15 at 229–244 W (1) | Sat 4:45. Thu 2:30 before a 2-hour drive, 165–180 W. | CSS stays 9 Nov |
-| 3 | 9 Nov | R-subT, 5×6 min | 85 min | Trainer: sweet spot, 2×15 at 229–244 W (2) | Trainer 5:00 at 165–190 W, or outside at 150–165 bpm. Thu 3:30 the same. | CSS Mon 9 Nov. S-reps Wed 11 Nov, not on the Thu long ride |
+| 3 | 9 Nov | R-subT, 5×6 min at 4:15–4:30 | 85 min | Thu night sweet spot 222–236 W. Fri 2×15 at 229–244 W (2) | Sat 4:30, 165–180 W indoor, legs decide. No bike Mon–Wed. | CSS Fri 13 Nov, home pool |
 | 4 | 16 Nov | R-Z4, 5×3 min | 75 min | Wed Z2, Fri trainer 2×20 at 239–252 W (1) | Trainer 4:30 at 165–190 W, or outside at 150–165 bpm. Thu 3:00 the same. | 2 × S-aer |
 | 5 | 23 Nov | R-subT | 80 min | B-SS, B-T (2) | 3:00 | S-aer + S-reps |
 | 6 | 30 Nov | R-subT | 85 min, ~10 mi | B-VO2 only (1) | 2:30 | S-aer + S-reps |
