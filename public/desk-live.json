@@ -2,12 +2,24 @@
   "ok": true,
   "today": "2026-11-08",
   "asOf": "2026-11-08",
-  "ctl": 74,
-  "atl": 84.9,
-  "form": -10.9,
-  "restingHr": 80,
-  "restingDate": "2026-11-08",
+  "ctl": 74.5,
+  "atl": 87.9,
+  "form": -13.4,
+  "restingHr": 75,
+  "restingDate": "2026-11-01",
   "sessions": [
+    {
+      "date": "2026-11-08",
+      "name": "Block A — Long run 80 min Z2",
+      "type": "Run",
+      "mins": 83,
+      "km": 14.7,
+      "avgHr": 144,
+      "maxHr": 161,
+      "avgW": null,
+      "np": null,
+      "load": 77
+    },
     {
       "date": "2026-11-07",
       "name": "Travel weekend — Long ride 4:45",
@@ -336,16 +348,16 @@
     },
     {
       "d": "2026-11-08",
-      "ctl": 74,
-      "atl": 84.9,
-      "form": -10.9
+      "ctl": 74.5,
+      "atl": 87.9,
+      "form": -13.4
     },
     {
       "d": "2026-11-09",
-      "ctl": 72.4,
-      "atl": 74.4,
-      "form": -2
+      "ctl": 72.9,
+      "atl": 77,
+      "form": -4.1
     }
   ],
-  "refreshedAt": "2026-11-08T15:19:03.913Z"
+  "refreshedAt": "2026-11-08T19:46:48.970Z"
 }
