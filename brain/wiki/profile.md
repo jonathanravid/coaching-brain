@@ -237,7 +237,7 @@ Before a week goes on the calendar, check these. Do not publish the week and fix
 - A long ride is easy. Outdoor 125–140, cap 145. Indoor 150–170 W, heart rate in the 120s and 130s. 150–165 for 4 hours is a race. That one was also written wrong on 8 Nov.
 - Indoor and outdoor are separate. Watts indoors. Heart rate outdoors. Do not copy one onto the other.
 - A 2×15 is about 160 bpm at 240 W indoors, not 173. Do not write the old zone back on.
-- No swim on a long-bike day.
+- No swim on a long-bike weekday. Weekend is fine if there is time. The swim stays easy.
 - CSS only in a real pool at home, not a hotel.
 
 Do not argue them out of work that fits the cap, the goal, and the physiology. Lorang's "slow them down" applies to junk and to heroic days that wreck the next week. It is not permission to back off healthy training.
@@ -246,7 +246,7 @@ Once a week, on Monday, ask how the body felt. One question. Cover the long ride
 
 An easier week is not on the calendar until the 10k week of 11 Jan. It gets called from the file and from that Monday answer, not from a date. Form around −20 during a build is expected. One number does not cut the week. Cut the next week only if two of these are true at the same time: form is past −25 and still falling, a quality session misses its zone at the written pace or watts, resting heart rate is up and the reading is real, or the Monday check says something is tight or hurting. One of those is a watch. Two is a cut.
 
-A long bike and a swim do not share a day (athlete-reported, 28 Oct). Thursday is the usual long midweek ride, so that swim goes on Wednesday. The same rule applies to the Saturday long ride.
+A long bike and a swim do not share a weekday (athlete-reported, 28 Oct). That was time, not the legs. Thursday is the usual long midweek ride, so that swim goes on Wednesday. On a weekend, with no work, they can share the day. An easy swim does not spend the leg budget. It stays easy. It does not become a second hard session.
 
 Road running costs the legs more than trail at the same heart rate (athlete-reported, 31 Oct). A road long run gets no kilometer under 5:10. Trail is the better surface for the long run when it is available. The heart rate will not show this cost. The legs will.
 
