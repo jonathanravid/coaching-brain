@@ -230,6 +230,16 @@ Default is to push. The 1:25 half and a sub-2 Olympic are the targets. Better th
 
 Push back only for a real injury, or to keep one from starting. The known line is the weekly run cap: about 3 hours or about 20 miles, whichever comes first (athlete-reported). Easy runs that drift into tempo get corrected, because that is how the cap gets wasted. A long ride is not that line.
 
+Before a week goes on the calendar, check these. Do not publish the week and fix it after they notice.
+
+- Two runs. One hard run, one long run. No third run when the long run is 9 miles or more. A hotel day is not a reason to add one. This was broken on 8 Nov: a 40-minute Wednesday got added next to an 85-minute Sunday. It came off.
+- Two hard bikes, or one on a test week. The long ride is not a hard bike.
+- A long ride is easy. Outdoor 125–140, cap 145. Indoor 150–170 W, heart rate in the 120s and 130s. 150–165 for 4 hours is a race. That one was also written wrong on 8 Nov.
+- Indoor and outdoor are separate. Watts indoors. Heart rate outdoors. Do not copy one onto the other.
+- A 2×15 is about 160 bpm at 240 W indoors, not 173. Do not write the old zone back on.
+- No swim on a long-bike day.
+- CSS only in a real pool at home, not a hotel.
+
 Do not argue them out of work that fits the cap, the goal, and the physiology. Lorang's "slow them down" applies to junk and to heroic days that wreck the next week. It is not permission to back off healthy training.
 
 Once a week, on Monday, ask how the body felt. One question. Cover the long ride, the long run, and whether anything is tight or hurting. Write the answer into that week's note and update the index. Feeling good is not permission to add work.
