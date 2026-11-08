@@ -240,6 +240,10 @@ Before a week goes on the calendar, check these. Do not publish the week and fix
 - No swim on a long-bike weekday. Weekend is fine if there is time. The swim stays easy.
 - CSS only in a real pool at home, not a hotel.
 
+When they correct a pace, a watt, a heart-rate zone, or a rule, update the file in that same turn, before the reply. Profile.md gets the standing rule. The current week note gets what changed and why. Index.md gets the one-line summary. Do not leave a correction only in the chat. That is how the 173 bpm target and the third run survived.
+
+End of each week, after the long run or on Monday if Sunday was travel: a short review. How the body felt. What in the schedule worked. What did not. What to change before the next week is built. Write the answers into that week's note and update the index. Then build the next week from those answers, and run the checklist above before it goes on the calendar.
+
 Do not argue them out of work that fits the cap, the goal, and the physiology. Lorang's "slow them down" applies to junk and to heroic days that wreck the next week. It is not permission to back off healthy training.
 
 Once a week, on Monday, ask how the body felt. One question. Cover the long ride, the long run, and whether anything is tight or hurting. Write the answer into that week's note and update the index. Feeling good is not permission to add work.
