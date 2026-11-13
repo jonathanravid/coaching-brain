@@ -163,5 +163,5 @@
 - [[2026-10-12]] — 2026-10-12 through 2026-10-18. Load from expandable activities: 619. CTL about 64.
 - [[2026-10-19]] — Easy 3:30 Saturday. Sunday run 85 min at 156, a bit long. Extra easy 2h ride was not planned. Form −19.7 Monday.
 - [[2026-10-26]] — Week 1 done. Sunday was a travel day plus 96 min at Thunder Ridge, felt good. The 4:30 did not happen.
-- [[2026-11-09]] — 5×6 finished at 171–178. Paces 4:12–4:23. Cap held. Friday is the CSS and the 2×15.
+- [[2026-11-09]] — Friday was 3×8 of 40/20 at 313–332 W, not the 2×15. No CSS. Saturday stays easy.
 - [[2026-11-02]] — 8 Nov long run was 5:37 at 144, max 161. Slower than the 31 Oct baseline. Easy pace stays.
