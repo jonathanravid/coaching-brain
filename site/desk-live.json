@@ -3,11 +3,23 @@
   "today": "2026-11-12",
   "asOf": "2026-11-12",
   "ctl": 72.9,
-  "atl": 76.4,
-  "form": -3.4,
-  "restingHr": 75,
-  "restingDate": "2026-11-01",
+  "atl": 76,
+  "form": -3.1,
+  "restingHr": 71,
+  "restingDate": "2026-11-10",
   "sessions": [
+    {
+      "date": "2026-11-12",
+      "name": "Block A — Sub-threshold 5x6 min at 4:15-4:30/km",
+      "type": "Run",
+      "mins": 55,
+      "km": 10.5,
+      "avgHr": 155,
+      "maxHr": 178,
+      "avgW": null,
+      "np": null,
+      "load": 57
+    },
     {
       "date": "2026-11-11",
       "name": "Cycling",
@@ -313,15 +325,15 @@
     {
       "d": "2026-11-12",
       "ctl": 72.9,
-      "atl": 76.4,
-      "form": -3.4
+      "atl": 76,
+      "form": -3.1
     },
     {
       "d": "2026-11-13",
       "ctl": 72.7,
-      "atl": 74.9,
-      "form": -2.1
+      "atl": 74.5,
+      "form": -1.8
     }
   ],
-  "refreshedAt": "2026-11-12T20:01:17.185Z"
+  "refreshedAt": "2026-11-13T01:09:35.399Z"
 }
