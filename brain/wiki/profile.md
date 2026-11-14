@@ -118,6 +118,8 @@ Power zones stay on the 21 Oct FTP of 252 W. Do not move them to match heart rat
 Indoor, trainer, MEASURED:
 
 - 167 W steady for 2:30 on 29 Oct: average 133, max 145, all Z1.
+- 195–196 W for 20 min on 14 Nov, hour 3–4 of a 4-hour ride: average 148 and 150 (MEASURED).
+- 205 W for 20 min on 14 Nov: average 151, max 161 (MEASURED).
 - 229–235 W sweet spot on 28 Oct: average 156–159, max 163–167.
 - 246 W for 15 min on 30 Oct, twice: average 160 and 164, max 167 and 170.
 - 266 W for 20 min on the 21 Oct test, a Zwift race: average 187.
