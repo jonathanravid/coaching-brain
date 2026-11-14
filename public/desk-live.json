@@ -2,12 +2,24 @@
   "ok": true,
   "today": "2026-11-14",
   "asOf": "2026-11-14",
-  "ctl": 77.9,
-  "atl": 102,
-  "form": -24.2,
+  "ctl": 77.1,
+  "atl": 98.5,
+  "form": -21.4,
   "restingHr": 71,
   "restingDate": "2026-11-10",
   "sessions": [
+    {
+      "date": "2026-11-14",
+      "name": "Zwift",
+      "type": "VirtualRide",
+      "mins": 248,
+      "km": 148.8,
+      "avgHr": 139,
+      "maxHr": 161,
+      "avgW": 163,
+      "np": 170,
+      "load": 188
+    },
     {
       "date": "2026-11-13",
       "name": "Zwift - Spencer McGehee's Meetup on California Roll in Watopia",
@@ -294,22 +306,22 @@
     },
     {
       "d": "2026-11-13",
-      "ctl": 75.3,
-      "atl": 89.3,
-      "form": -14
+      "ctl": 73.8,
+      "atl": 80.6,
+      "form": -6.9
     },
     {
       "d": "2026-11-14",
-      "ctl": 77.9,
-      "atl": 102,
-      "form": -24.2
+      "ctl": 77.1,
+      "atl": 98.5,
+      "form": -21.4
     },
     {
       "d": "2026-11-15",
-      "ctl": 77.3,
-      "atl": 95.5,
-      "form": -18.2
+      "ctl": 76.5,
+      "atl": 92.5,
+      "form": -15.9
     }
   ],
-  "refreshedAt": "2026-11-14T18:12:40.025Z"
+  "refreshedAt": "2026-11-14T22:31:20.535Z"
 }
