@@ -2,12 +2,24 @@
   "ok": true,
   "today": "2026-11-13",
   "asOf": "2026-11-13",
-  "ctl": 72.7,
-  "atl": 74.5,
-  "form": -1.8,
+  "ctl": 75.3,
+  "atl": 89.3,
+  "form": -14,
   "restingHr": 71,
   "restingDate": "2026-11-10",
   "sessions": [
+    {
+      "date": "2026-11-13",
+      "name": "Zwift - Spencer McGehee's Meetup on California Roll in Watopia",
+      "type": "VirtualRide",
+      "mins": 104,
+      "km": 59.7,
+      "avgHr": 136,
+      "maxHr": 177,
+      "avgW": 167,
+      "np": 201,
+      "load": 111
+    },
     {
       "date": "2026-11-12",
       "name": "Block A — Sub-threshold 5x6 min at 4:15-4:30/km",
@@ -300,16 +312,16 @@
     },
     {
       "d": "2026-11-13",
-      "ctl": 72.7,
-      "atl": 74.5,
-      "form": -1.8
+      "ctl": 75.3,
+      "atl": 89.3,
+      "form": -14
     },
     {
       "d": "2026-11-14",
-      "ctl": 75.3,
-      "atl": 89.2,
-      "form": -13.9
+      "ctl": 77.9,
+      "atl": 102,
+      "form": -24.2
     }
   ],
-  "refreshedAt": "2026-11-13T22:41:35.134Z"
+  "refreshedAt": "2026-11-14T03:21:36.840Z"
 }
