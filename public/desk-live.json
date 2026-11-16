@@ -3,11 +3,35 @@
   "today": "2026-11-15",
   "asOf": "2026-11-15",
   "ctl": 78,
-  "atl": 101.1,
-  "form": -23.1,
+  "atl": 101.5,
+  "form": -23.4,
   "restingHr": 71,
   "restingDate": "2026-11-10",
   "sessions": [
+    {
+      "date": "2026-11-15",
+      "name": "Zwift - Spencer McGehee's Meetup on Laps, Camera, Traction in Watopia",
+      "type": "VirtualRide",
+      "mins": 52,
+      "km": 26,
+      "avgHr": 139,
+      "maxHr": 149,
+      "avgW": 181,
+      "np": 182,
+      "load": 45
+    },
+    {
+      "date": "2026-11-15",
+      "name": "Zwift - Molten Momentum in Watopia",
+      "type": "VirtualRide",
+      "mins": 16,
+      "km": 6.5,
+      "avgHr": 130,
+      "maxHr": 144,
+      "avgW": 159,
+      "np": 162,
+      "load": 11
+    },
     {
       "date": "2026-11-15",
       "name": "Virginia Beach Running",
@@ -313,15 +337,15 @@
     {
       "d": "2026-11-15",
       "ctl": 78,
-      "atl": 101.1,
-      "form": -23.1
+      "atl": 101.5,
+      "form": -23.4
     },
     {
       "d": "2026-11-16",
-      "ctl": 77,
-      "atl": 92.4,
-      "form": -15.4
+      "ctl": 76.3,
+      "atl": 88.7,
+      "form": -12.4
     }
   ],
-  "refreshedAt": "2026-11-15T22:54:50.572Z"
+  "refreshedAt": "2026-11-16T02:48:07.674Z"
 }
