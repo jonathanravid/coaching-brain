@@ -2,12 +2,24 @@
   "ok": true,
   "today": "2026-11-17",
   "asOf": "2026-11-17",
-  "ctl": 76.3,
-  "atl": 86,
-  "form": -9.7,
+  "ctl": 77.5,
+  "atl": 93.1,
+  "form": -15.6,
   "restingHr": 71,
   "restingDate": "2026-11-10",
   "sessions": [
+    {
+      "date": "2026-11-17",
+      "name": "Virginia Beach - 6x3'",
+      "type": "Run",
+      "mins": 56,
+      "km": 10.4,
+      "avgHr": 150,
+      "maxHr": 182,
+      "avgW": null,
+      "np": null,
+      "load": 54
+    },
     {
       "date": "2026-11-16",
       "name": "Zwift - Endurance Building Blocks",
@@ -336,16 +348,16 @@
     },
     {
       "d": "2026-11-17",
-      "ctl": 76.3,
-      "atl": 86,
-      "form": -9.7
+      "ctl": 77.5,
+      "atl": 93.1,
+      "form": -15.6
     },
     {
       "d": "2026-11-18",
-      "ctl": 78,
-      "atl": 94.3,
-      "form": -16.4
+      "ctl": 79.2,
+      "atl": 100.6,
+      "form": -21.4
     }
   ],
-  "refreshedAt": "2026-11-17T14:33:31.081Z"
+  "refreshedAt": "2026-11-17T22:56:45.883Z"
 }
