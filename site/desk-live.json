@@ -2,12 +2,36 @@
   "ok": true,
   "today": "2026-11-16",
   "asOf": "2026-11-16",
-  "ctl": 76.3,
-  "atl": 88.7,
-  "form": -12.4,
+  "ctl": 77.4,
+  "atl": 95,
+  "form": -17.6,
   "restingHr": 71,
   "restingDate": "2026-11-10",
   "sessions": [
+    {
+      "date": "2026-11-16",
+      "name": "Zwift - Endurance Building Blocks",
+      "type": "VirtualRide",
+      "mins": 61,
+      "km": 30.9,
+      "avgHr": 135,
+      "maxHr": 157,
+      "avgW": 171,
+      "np": 182,
+      "load": 53
+    },
+    {
+      "date": "2026-11-16",
+      "name": "Block A — Light lift",
+      "type": "WeightTraining",
+      "mins": 35,
+      "km": 0,
+      "avgHr": null,
+      "maxHr": null,
+      "avgW": null,
+      "np": null,
+      "load": null
+    },
     {
       "date": "2026-11-15",
       "name": "Zwift - Spencer McGehee's Meetup on Laps, Camera, Traction in Watopia",
@@ -211,27 +235,9 @@
       "avgW": 166,
       "np": 199,
       "load": 87
-    },
-    {
-      "date": "2026-10-31",
-      "name": "Morning Run",
-      "type": "Run",
-      "mins": 78,
-      "km": 14.7,
-      "avgHr": 152,
-      "maxHr": 160,
-      "avgW": null,
-      "np": null,
-      "load": 79
     }
   ],
   "series": [
-    {
-      "d": "2026-10-31",
-      "ctl": 72.8,
-      "atl": 88.4,
-      "form": -15.6
-    },
     {
       "d": "2026-11-01",
       "ctl": 73.1,
@@ -324,16 +330,16 @@
     },
     {
       "d": "2026-11-16",
-      "ctl": 76.3,
-      "atl": 88.7,
-      "form": -12.4
+      "ctl": 77.4,
+      "atl": 95,
+      "form": -17.6
     },
     {
       "d": "2026-11-17",
-      "ctl": 75.2,
-      "atl": 80.5,
-      "form": -5.3
+      "ctl": 76.3,
+      "atl": 86,
+      "form": -9.7
     }
   ],
-  "refreshedAt": "2026-11-16T22:13:55.510Z"
+  "refreshedAt": "2026-11-17T04:33:47.422Z"
 }
