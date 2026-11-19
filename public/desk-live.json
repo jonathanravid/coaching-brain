@@ -1,10 +1,10 @@
 {
   "ok": true,
-  "today": "2026-11-18",
-  "asOf": "2026-11-18",
-  "ctl": 78.5,
-  "atl": 97.2,
-  "form": -18.6,
+  "today": "2026-11-19",
+  "asOf": "2026-11-19",
+  "ctl": 77.5,
+  "atl": 89,
+  "form": -11.5,
   "restingHr": 71,
   "restingDate": "2026-11-10",
   "sessions": [
@@ -247,27 +247,9 @@
       "avgW": null,
       "np": null,
       "load": 52
-    },
-    {
-      "date": "2026-11-02",
-      "name": "Hotel incline walk",
-      "type": "Walk",
-      "mins": 60,
-      "km": 5.6,
-      "avgHr": null,
-      "maxHr": null,
-      "avgW": null,
-      "np": null,
-      "load": 15
     }
   ],
   "series": [
-    {
-      "d": "2026-11-02",
-      "ctl": 71.7,
-      "atl": 78.5,
-      "form": -6.7
-    },
     {
       "d": "2026-11-03",
       "ctl": 71.3,
@@ -369,7 +351,13 @@
       "ctl": 77.5,
       "atl": 89,
       "form": -11.5
+    },
+    {
+      "d": "2026-11-20",
+      "ctl": 76.7,
+      "atl": 82.8,
+      "form": -6.1
     }
   ],
-  "refreshedAt": "2026-11-19T03:36:31.433Z"
+  "refreshedAt": "2026-11-19T13:21:57.180Z"
 }
