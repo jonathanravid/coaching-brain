@@ -2,12 +2,24 @@
   "ok": true,
   "today": "2026-11-18",
   "asOf": "2026-11-18",
-  "ctl": 79.3,
-  "atl": 101.2,
-  "form": -21.9,
+  "ctl": 78.5,
+  "atl": 97.2,
+  "form": -18.6,
   "restingHr": 71,
   "restingDate": "2026-11-10",
   "sessions": [
+    {
+      "date": "2026-11-18",
+      "name": "Zwift",
+      "type": "VirtualRide",
+      "mins": 121,
+      "km": 66.5,
+      "avgHr": 144,
+      "maxHr": 168,
+      "avgW": 181,
+      "np": 194,
+      "load": 119
+    },
     {
       "date": "2026-11-18",
       "name": "Zwift - Paris",
@@ -348,16 +360,16 @@
     },
     {
       "d": "2026-11-18",
-      "ctl": 79.3,
-      "atl": 101.2,
-      "form": -21.9
+      "ctl": 78.5,
+      "atl": 97.2,
+      "form": -18.6
     },
     {
       "d": "2026-11-19",
-      "ctl": 78.2,
-      "atl": 92.5,
-      "form": -14.3
+      "ctl": 77.5,
+      "atl": 89,
+      "form": -11.5
     }
   ],
-  "refreshedAt": "2026-11-18T22:02:20.822Z"
+  "refreshedAt": "2026-11-19T03:36:31.433Z"
 }
