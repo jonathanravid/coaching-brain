@@ -118,6 +118,9 @@ Power zones stay on the 21 Oct FTP of 252 W. Do not move them to match heart rat
 Indoor, trainer, MEASURED:
 
 - 167 W steady for 2:30 on 29 Oct: average 133, max 145, all Z1.
+- 185 W for 30 min on 21 Nov: average 141 (MEASURED).
+- 190 W for 25 min on 21 Nov: average 145 (MEASURED).
+- 193 W for 20 min on 21 Nov: average 150 (MEASURED).
 - 195–196 W for 20 min on 14 Nov, hour 3–4 of a 4-hour ride: average 148 and 150 (MEASURED).
 - 205 W for 20 min on 14 Nov: average 151, max 161 (MEASURED).
 - 235 W for 20 min on 18 Nov: average 159, max 164 (MEASURED).
