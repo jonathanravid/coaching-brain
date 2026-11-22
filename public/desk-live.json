@@ -2,12 +2,24 @@
   "ok": true,
   "today": "2026-11-22",
   "asOf": "2026-11-22",
-  "ctl": 79,
-  "atl": 91.7,
-  "form": -12.7,
-  "restingHr": 81,
-  "restingDate": "2026-11-22",
+  "ctl": 80.8,
+  "atl": 102.3,
+  "form": -21.5,
+  "restingHr": 78,
+  "restingDate": "2026-11-21",
   "sessions": [
+    {
+      "date": "2026-11-22",
+      "name": "Virginia Beach Running",
+      "type": "Run",
+      "mins": 81,
+      "km": 15.1,
+      "avgHr": 151,
+      "maxHr": 161,
+      "avgW": null,
+      "np": null,
+      "load": 80
+    },
     {
       "date": "2026-11-21",
       "name": "Block A — Long ride 4:30, easy",
@@ -336,16 +348,16 @@
     },
     {
       "d": "2026-11-22",
-      "ctl": 79,
-      "atl": 91.7,
-      "form": -12.7
+      "ctl": 80.8,
+      "atl": 102.3,
+      "form": -21.5
     },
     {
       "d": "2026-11-23",
-      "ctl": 77.1,
-      "atl": 79.5,
-      "form": -2.4
+      "ctl": 79.1,
+      "atl": 89.5,
+      "form": -10.4
     }
   ],
-  "refreshedAt": "2026-11-22T15:25:28.888Z"
+  "refreshedAt": "2026-11-22T21:52:05.283Z"
 }
