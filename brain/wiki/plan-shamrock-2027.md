@@ -158,9 +158,9 @@ Run miles are the hard day plus the long run. They stay under 20. Hours stay und
 | 6 | 30 Nov | R-subT | 85 min, ~10 mi | B-VO2 only (1) | 2:30 | S-aer + S-reps |
 | 7 | 7 Dec | R-T | 80 min | B-SS, B-T (2) | 3:15 | S-aer + S-reps |
 | 8 | 14 Dec | R-T | 90 min, ~10 mi | B-SS, B-T (2) | 3:00 | S-aer + S-reps |
-| 9 | 21 Dec | R-subT, 4 reps | 60 min | B-Z4 only (1) | 2:00 | 1 × S-aer |
-| 10 | 28 Dec | R-T | 80 min | B-SS, B-T (2) | 2:45 | S-aer + S-reps |
-| 11 | 4 Jan | R-T, 3×8 min | 70 min | B-SS, B-T (2) | 3:45 | S-aer + S-reps |
+| 9 | 21 Dec | R-subT, 4×6 | 60 min | One short easy ride before the 23rd. Then off the bike. | none after the 23rd | 1 × S-aer |
+| 10 | 28 Dec | Easy run only, or off | 50 min easy, or off | Off the bike. Optional easy spin if a bike is there. No intervals. | none | 1 × S-aer if a pool is there |
+| 11 | 4 Jan | R-subT, 4×6, not threshold | 60 min | One easy ride, then one short sweet spot (1) | 2:00 easy | 1 × S-aer |
 | 12 | 11 Jan | 10k time trial | 40 min easy, not a long run | none (0) | 2:00 | 2 × S-aer |
 | 13 | 18 Jan | none | 70 min easy | one short B-SS, 2×8 min (1) | 3:00 | S-aer + S-reps |
 | 14 | 25 Jan | R-HMp, 3×2 km | 85 min | B-SS, B-T (2) | 3:15 | S-aer + S-reps |

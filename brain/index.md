@@ -164,7 +164,7 @@
 - [[2026-10-19]] — Easy 3:30 Saturday. Sunday run 85 min at 156, a bit long. Extra easy 2h ride was not planned. Form −19.7 Monday.
 - [[2026-10-26]] — Week 1 done. Sunday was a travel day plus 96 min at Thunder Ridge, felt good. The 4:30 did not happen.
 - [[block-a-review]] — Block A absorbed. CSS still open. Indoor 240 W is 164, not 184.
-- [[2026-11-23]] — Week 5 is on the calendar. CSS Monday. 5×6 Tuesday. Sweet spot Wednesday, 2×20 Friday. Long ride 3:00.
+- [[2026-11-23]] — Week 5 is on the calendar. Off the bike 23 Dec–3 Jan. Week of 4 Jan is the return, not a 3:45.
 - [[2026-11-16]] — 22 Nov long run 5:19 at 151, max 161. First clean one. Easy pace stays.
 - [[2026-11-09]] — Weekly review 15 Nov. Body felt pretty good. Schedule worked even with travel. No issues. No zone changes. Making progress.
 - [[2026-11-02]] — 8 Nov long run was 5:37 at 144, max 161. Slower than the 31 Oct baseline. Easy pace stays.
