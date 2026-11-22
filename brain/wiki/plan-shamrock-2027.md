@@ -154,7 +154,7 @@ Run miles are the hard day plus the long run. They stay under 20. Hours stay und
 | 2 | 2 Nov | R-Z4, 6×3 min at 4:00–4:06 | 80 min | Wed Thunder Ridge, upper Z2, no intervals. Fri trainer 2×15 at 229–244 W (1) | Sat 4:45. Thu 2:30 before a 2-hour drive, 165–180 W. | CSS stays 9 Nov |
 | 3 | 9 Nov | R-subT, 5×6 min at 4:15–4:30 | 85 min | Thu night sweet spot 222–236 W. Fri 2×15 at 229–244 W (2) | Sat 4:30, 165–180 W indoor, legs decide. No bike Mon–Wed. | CSS Fri 13 Nov, home pool |
 | 4 | 16 Nov | R-Z4, 5×3 min at 4:00–4:06 | 75 min | Fri 2×20 at 239–252 W, start at 240 (1) | Sat 4:30 easy, 150–170 W indoor. Thu 3:00 easy. | CSS Mon 16 Nov. Aerobic Wed |
-| 5 | 23 Nov | R-subT | 80 min | B-SS, B-T (2) | 3:00 | S-aer + S-reps |
+| 5 | 23 Nov | R-subT, 5×6 at 4:15–4:30 | 80 min | B-SS 3×10 at 222–236, B-T 2×20 at 240 (2) | 3:00 easy, 150–170 W indoor | CSS Monday. Aerobic + 10×100 |
 | 6 | 30 Nov | R-subT | 85 min, ~10 mi | B-VO2 only (1) | 2:30 | S-aer + S-reps |
 | 7 | 7 Dec | R-T | 80 min | B-SS, B-T (2) | 3:15 | S-aer + S-reps |
 | 8 | 14 Dec | R-T | 90 min, ~10 mi | B-SS, B-T (2) | 3:00 | S-aer + S-reps |
