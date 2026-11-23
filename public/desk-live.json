@@ -2,12 +2,24 @@
   "ok": true,
   "today": "2026-11-22",
   "asOf": "2026-11-22",
-  "ctl": 80.8,
-  "atl": 102.3,
-  "form": -21.5,
+  "ctl": 82,
+  "atl": 109,
+  "form": -27,
   "restingHr": 78,
   "restingDate": "2026-11-21",
   "sessions": [
+    {
+      "date": "2026-11-22",
+      "name": "Zwift - Jon Ravid's Meetup on Tempus Fugit in Watopia",
+      "type": "VirtualRide",
+      "mins": 60,
+      "km": 33.6,
+      "avgHr": 135,
+      "maxHr": 145,
+      "avgW": 175,
+      "np": 177,
+      "load": 50
+    },
     {
       "date": "2026-11-22",
       "name": "Virginia Beach Running",
@@ -348,16 +360,16 @@
     },
     {
       "d": "2026-11-22",
-      "ctl": 80.8,
-      "atl": 102.3,
-      "form": -21.5
+      "ctl": 82,
+      "atl": 109,
+      "form": -27
     },
     {
       "d": "2026-11-23",
-      "ctl": 79.1,
-      "atl": 89.5,
-      "form": -10.4
+      "ctl": 80.2,
+      "atl": 95.3,
+      "form": -15
     }
   ],
-  "refreshedAt": "2026-11-22T21:52:05.283Z"
+  "refreshedAt": "2026-11-23T02:52:08.099Z"
 }
