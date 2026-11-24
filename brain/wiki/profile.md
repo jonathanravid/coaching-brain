@@ -125,6 +125,8 @@ Indoor, trainer, MEASURED:
 - 205 W for 20 min on 14 Nov: average 151, max 161 (MEASURED).
 - 235 W for 20 min on 18 Nov: average 159, max 164 (MEASURED).
 - 240 W for 20 min on 18 Nov: average 164, max 168 (MEASURED).
+- 243 W for 20 min on 24 Nov: average 159, max 166, efficiency 1.528 (MEASURED).
+- 251 W for 20 min on 24 Nov: average 163, max 167, efficiency 1.534 (MEASURED).
 - 229–235 W sweet spot on 28 Oct: average 156–159, max 163–167.
 - 246 W for 15 min on 30 Oct, twice: average 160 and 164, max 167 and 170.
 - 266 W for 20 min on the 21 Oct test, a Zwift race: average 187.
