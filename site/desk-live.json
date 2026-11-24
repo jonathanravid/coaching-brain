@@ -2,12 +2,24 @@
   "ok": true,
   "today": "2026-11-24",
   "asOf": "2026-11-24",
-  "ctl": 79.8,
-  "atl": 91.5,
-  "form": -11.6,
+  "ctl": 79.7,
+  "atl": 90.8,
+  "form": -11.1,
   "restingHr": 78,
   "restingDate": "2026-11-21",
   "sessions": [
+    {
+      "date": "2026-11-23",
+      "name": "Block B — Light lift",
+      "type": "WeightTraining",
+      "mins": 60,
+      "km": 0,
+      "avgHr": null,
+      "maxHr": null,
+      "avgW": null,
+      "np": null,
+      "load": null
+    },
     {
       "date": "2026-11-22",
       "name": "Zwift - Jon Ravid's Meetup on Tempus Fugit in Watopia",
@@ -342,22 +354,22 @@
     },
     {
       "d": "2026-11-23",
-      "ctl": 79.8,
-      "atl": 93.1,
-      "form": -13.3
+      "ctl": 79.7,
+      "atl": 92.3,
+      "form": -12.6
     },
     {
       "d": "2026-11-24",
-      "ctl": 79.8,
-      "atl": 91.5,
-      "form": -11.6
+      "ctl": 79.7,
+      "atl": 90.8,
+      "form": -11.1
     },
     {
       "d": "2026-11-25",
-      "ctl": 79.6,
-      "atl": 88.7,
-      "form": -9.1
+      "ctl": 79.5,
+      "atl": 88.1,
+      "form": -8.7
     }
   ],
-  "refreshedAt": "2026-11-24T11:02:16.845Z"
+  "refreshedAt": "2026-11-24T21:19:26.356Z"
 }
