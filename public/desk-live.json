@@ -1,13 +1,25 @@
 {
   "ok": true,
-  "today": "2026-11-24",
-  "asOf": "2026-11-24",
-  "ctl": 81,
-  "atl": 98.4,
-  "form": -17.3,
+  "today": "2026-11-25",
+  "asOf": "2026-11-25",
+  "ctl": 79.8,
+  "atl": 88.9,
+  "form": -9.1,
   "restingHr": 78,
   "restingDate": "2026-11-21",
   "sessions": [
+    {
+      "date": "2026-11-25",
+      "name": "Block B — Easy spin before the drive, or off",
+      "type": "VirtualRide",
+      "mins": 47,
+      "km": 24.5,
+      "avgHr": 128,
+      "maxHr": 138,
+      "avgW": 144,
+      "np": 148,
+      "load": 27
+    },
     {
       "date": "2026-11-24",
       "name": "Zwift -  2x20",
@@ -259,27 +271,9 @@
       "avgW": 130,
       "np": 136,
       "load": 13
-    },
-    {
-      "date": "2026-11-08",
-      "name": "Block A — Long run 80 min Z2",
-      "type": "Run",
-      "mins": 83,
-      "km": 14.7,
-      "avgHr": 144,
-      "maxHr": 161,
-      "avgW": null,
-      "np": null,
-      "load": 77
     }
   ],
   "series": [
-    {
-      "d": "2026-11-08",
-      "ctl": 74.5,
-      "atl": 87.9,
-      "form": -13.4
-    },
     {
       "d": "2026-11-09",
       "ctl": 72.8,
@@ -378,10 +372,16 @@
     },
     {
       "d": "2026-11-25",
-      "ctl": 79.9,
-      "atl": 89.9,
-      "form": -10
+      "ctl": 79.8,
+      "atl": 88.9,
+      "form": -9.1
+    },
+    {
+      "d": "2026-11-26",
+      "ctl": 79.2,
+      "atl": 84.2,
+      "form": -5.1
     }
   ],
-  "refreshedAt": "2026-11-25T04:20:39.850Z"
+  "refreshedAt": "2026-11-25T15:42:42.475Z"
 }
