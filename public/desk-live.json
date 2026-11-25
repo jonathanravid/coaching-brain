@@ -2,12 +2,24 @@
   "ok": true,
   "today": "2026-11-24",
   "asOf": "2026-11-24",
-  "ctl": 79.7,
-  "atl": 90.8,
-  "form": -11.1,
+  "ctl": 81,
+  "atl": 98.4,
+  "form": -17.3,
   "restingHr": 78,
   "restingDate": "2026-11-21",
   "sessions": [
+    {
+      "date": "2026-11-24",
+      "name": "Zwift -  2x20",
+      "type": "VirtualRide",
+      "mins": 133,
+      "km": 72.5,
+      "avgHr": 140,
+      "maxHr": 167,
+      "avgW": 184,
+      "np": 199,
+      "load": 138
+    },
     {
       "date": "2026-11-23",
       "name": "Block B — Light lift",
@@ -360,16 +372,16 @@
     },
     {
       "d": "2026-11-24",
-      "ctl": 79.7,
-      "atl": 90.8,
-      "form": -11.1
+      "ctl": 81,
+      "atl": 98.4,
+      "form": -17.3
     },
     {
       "d": "2026-11-25",
-      "ctl": 79.5,
-      "atl": 88.1,
-      "form": -8.7
+      "ctl": 79.9,
+      "atl": 89.9,
+      "form": -10
     }
   ],
-  "refreshedAt": "2026-11-24T21:19:26.356Z"
+  "refreshedAt": "2026-11-25T04:20:39.850Z"
 }
