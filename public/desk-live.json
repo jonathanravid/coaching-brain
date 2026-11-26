@@ -2,12 +2,24 @@
   "ok": true,
   "today": "2026-11-26",
   "asOf": "2026-11-26",
-  "ctl": 79.2,
-  "atl": 84.2,
-  "form": -5.1,
+  "ctl": 79.3,
+  "atl": 85.2,
+  "form": -5.8,
   "restingHr": 78,
   "restingDate": "2026-11-21",
   "sessions": [
+    {
+      "date": "2026-11-26",
+      "name": "Block B — Sub-threshold 5x6 min at 4:15-4:30/km",
+      "type": "Run",
+      "mins": 56,
+      "km": 10.9,
+      "avgHr": 160,
+      "maxHr": 183,
+      "avgW": null,
+      "np": null,
+      "load": 61
+    },
     {
       "date": "2026-11-25",
       "name": "Block B — Easy spin before the drive, or off",
@@ -372,16 +384,16 @@
     },
     {
       "d": "2026-11-26",
-      "ctl": 79.2,
-      "atl": 84.2,
-      "form": -5.1
+      "ctl": 79.3,
+      "atl": 85.2,
+      "form": -5.8
     },
     {
       "d": "2026-11-27",
-      "ctl": 79.2,
-      "atl": 83.8,
-      "form": -4.6
+      "ctl": 79.4,
+      "atl": 84.6,
+      "form": -5.2
     }
   ],
-  "refreshedAt": "2026-11-26T09:37:49.416Z"
+  "refreshedAt": "2026-11-26T19:41:10.864Z"
 }
