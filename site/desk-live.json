@@ -1,10 +1,10 @@
 {
   "ok": true,
-  "today": "2026-11-26",
-  "asOf": "2026-11-26",
-  "ctl": 79.3,
-  "atl": 85.2,
-  "form": -5.8,
+  "today": "2026-11-27",
+  "asOf": "2026-11-27",
+  "ctl": 79.4,
+  "atl": 84.6,
+  "form": -5.2,
   "restingHr": 78,
   "restingDate": "2026-11-21",
   "sessions": [
@@ -247,51 +247,9 @@
       "avgW": 185,
       "np": 213,
       "load": 144
-    },
-    {
-      "date": "2026-11-10",
-      "name": "Zwift - Caldera Coaster in Watopia",
-      "type": "VirtualRide",
-      "mins": 8,
-      "km": 4.2,
-      "avgHr": 121,
-      "maxHr": 127,
-      "avgW": 145,
-      "np": 149,
-      "load": 5
-    },
-    {
-      "date": "2026-11-10",
-      "name": "Zwift - Seafoam Circuit in Watopia",
-      "type": "VirtualRide",
-      "mins": 7,
-      "km": 3.6,
-      "avgHr": 115,
-      "maxHr": 124,
-      "avgW": 123,
-      "np": 123,
-      "load": 3
-    },
-    {
-      "date": "2026-11-10",
-      "name": "Zwift - Crit Cross in Watopia",
-      "type": "VirtualRide",
-      "mins": 27,
-      "km": 13.6,
-      "avgHr": 118,
-      "maxHr": 130,
-      "avgW": 130,
-      "np": 136,
-      "load": 13
     }
   ],
   "series": [
-    {
-      "d": "2026-11-10",
-      "ctl": 71.5,
-      "atl": 68.9,
-      "form": 2.7
-    },
     {
       "d": "2026-11-11",
       "ctl": 73.2,
@@ -393,7 +351,13 @@
       "ctl": 79.4,
       "atl": 84.6,
       "form": -5.2
+    },
+    {
+      "d": "2026-11-28",
+      "ctl": 80,
+      "atl": 87.3,
+      "form": -7.4
     }
   ],
-  "refreshedAt": "2026-11-27T02:54:49.557Z"
+  "refreshedAt": "2026-11-27T12:36:50.850Z"
 }
